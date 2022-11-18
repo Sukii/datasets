@@ -167,7 +167,6 @@ Titrating steoids on exhaled nitric oxide in children with asthma
 The Google Calender app helps you spend less time managing your schedule and more time enjoying it 
 In digital imaging , a pixle , pel , or picture element is the smallest addressable element in a raster 
 An embedded system is a microprocesor based computer hardware system with software 
-DCTs are widely used for encoding , decoding , video coding , audio coding , multiplixing , control signals , signaling , analog - to - digital conversion , formatting luminance 
 DCTs are widely used for encoding , decoding , video coding , audio coding , multiplexing , control signals , signaling , analog - to - digital conversion , formatting luminence 
 The Acquissition could be as simple as being given an image which is in digital form 
 combination of a computer processor , computer memory , and input / output periphiral devices 
@@ -200,14 +199,12 @@ Prominent examples of this approach include Arduino and Raperry Pi
 Some embedded systems are predominantly controlled by interupts 
 This method brings the system close to a multitasking kernal with discrete processes 
 Common examples of embedded monollithic kernels are embedded Linux 
-Common examples of embedded monolithic kernels are embeded Linux 
 The scientific study of language is called lingustics 
 encoded into secondary media using auditory , visual , or tactile stimuli – for example , in writing , whistling , signing , or braile 
 the originator of the generative theory of grammer , who has defined language as the construction of sentences 
 study grammar as dynamic phennomena , as structures that are always in the process of changing as they are employed by their speakers 
 they employ grammatical and sematic categories , such as noun and verb , present 
-the distinctions between syntagam and paradigm 
-the distinctions between syntagm and paradigam 
+the distinctions between syntagam and paradigam
 the posterior section of the superior temporal gyrups in the dominant cerebral hemisphere 
 People with a lesion to this area develop expressive apasia 
 Suprasegmental phenomena encompass such elements as stress , phonasion type , voice timbre , and prosody or intonation 
@@ -246,8 +243,7 @@ Pollex the thick short innermost digit of the forelimb
 Celiac of or in or belonging to the cavity of the abdomen 
 Plueral effusion is build - up of excess fluid between the layers of the pleura outside the lungs 
 Carpopedal spasms are frequent and involuntary muscle contractions in the hands and feet 
-Having no apparent stem , or at least none visible above the ground surface acaulescent 
-accumbent it means that one edge of the cotyledon lies along the radicle 
+Having no apparent stem , or at least none visible above the ground surface acaulescent
 accumbent it means that one edge of the cotylidon lies along the radicle 
 On land , agochoric plants used to be common in ports 
 Semi - amplexicaul Stem partially enclosed by leaf base 
