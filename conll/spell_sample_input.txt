@@ -463,5 +463,4 @@ A mid - latitude channel model ( MCM ) , zonally global but meridionally bounded
 This LR simlation showed comparible skill compared to the higher resolution MCM simulation 
 While the rigorus treatment of these missing data was one of our primary goals , the use of more complete data would result in better precision . 
 Adrenalin belongs to a group of medicines used for the treatment of serious shock produced by a severe allergic reaction or collapse 
-They have good reason to be increduleous 
- 
+They have good reason to be increduleous
