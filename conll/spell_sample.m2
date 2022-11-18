@@ -1,12 +1,6 @@
 S From curious meerkat to dancing pheasants : Incredible images shortlisted for Wildlife Photographer of the Year People ' s Choice Award
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
-S From curious meerkat to dancing pheasants : Incredible images shortlisted for Wildlife Photographer of the Year People ' s Choice Award
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S Omicron variant could outcompete Delta , South African disease expert says
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
 S Omicron variant could outcompete Delta , South African disease expert says
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
@@ -25,9 +19,6 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 S Total Solar Eclipse to Super New Moon : Dec 4 lined up with celestial events for stargazers
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
-S Total Solar Eclipse to Super New Moon : Dec 4 lined up with celestial events for stargazers
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
 S How did mountains like Everest , Kangchenjunga form ? Study finds answer in oceans
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
@@ -40,16 +31,7 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 S Sensex , Nifty edge higher on auto , pharma boost ; Omicron woes cap gains
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
-S Sensex , Nifty edge higher on auto , pharma boost ; Omicron woes cap gains
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
 S Cryptocurrency prices today : Bitcoin just above $ 5 7 , 0 0 0 , Ether rises sharply
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S Cryptocurrency prices today : Bitcoin just above $ 5 7 , 0 0 0 , Ether rises sharply
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S shows a significant advance in the organic chemistry or molecular design aspects of chemical biology , catalysis , supramolecular and macromolecular chemistry , theoretical chemistry , mechanism - oriented physical organic chemistry , medicinal chemistry or natural products .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S shows a significant advance in the organic chemistry or molecular design aspects of chemical biology , catalysis , supramolecular and macromolecular chemistry , theoretical chemistry , mechanism - oriented physical organic chemistry , medicinal chemistry or natural products .
@@ -118,12 +100,6 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 S The orders that contain the greatest numbers of species are Coleoptera ( beetles ) , Lepidoptera ( butterflies and moths ) , Hymenoptera ( ants , bees , wasps ) , and Diptera ( true flies )
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
-S The orders that contain the greatest numbers of species are Coleoptera ( beetles ) , Lepidoptera ( butterflies and moths ) , Hymenoptera ( ants , bees , wasps ) , and Diptera ( true flies )
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S The orders that contain the greatest numbers of species are Coleoptera ( beetles ) , Lepidoptera ( butterflies and moths ) , Hymenoptera ( ants , bees , wasps ) , and Diptera ( true flies )
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
 S the wingspan of the hercules moth can be as large as 2 7 cm
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
@@ -139,34 +115,10 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 S The cochineal , or carmine , from Dactylopius scale insects found on Mexican cacti , was used for dying cloth by the Aztecs and is used today as a dye in foods , cosmetics , drugs , and textiles
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
-S The cochineal , or carmine , from Dactylopius scale insects found on Mexican cacti , was used for dying cloth by the Aztecs and is used today as a dye in foods , cosmetics , drugs , and textiles
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S This is true of insects such as dermestid beetles and various tineid moths that ecologically are latecomers to carcasses
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
 S This is true of insects such as dermestid beetles and various tineid moths that ecologically are latecomers to carcasses
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S This has occurred in the United States with the oystershell scale ( Lepidosaphes ulmi ) of apple and other fruit trees
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S This has occurred in the United States with the oystershell scale ( Lepidosaphes ulmi ) of apple and other fruit trees
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S There are hundreds of pest species of this type , both in larvae and adults , among orthopterans , homopterans , heteropterans , coleopterans , lepidopterans , and dipterans
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S There are hundreds of pest species of this type , both in larvae and adults , among orthopterans , homopterans , heteropterans , coleopterans , lepidopterans , and dipterans
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S There are hundreds of pest species of this type , both in larvae and adults , among orthopterans , homopterans , heteropterans , coleopterans , lepidopterans , and dipterans
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S There are hundreds of pest species of this type , both in larvae and adults , among orthopterans , homopterans , heteropterans , coleopterans , lepidopterans , and dipterans
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S There are hundreds of pest species of this type , both in larvae and adults , among orthopterans , homopterans , heteropterans , coleopterans , lepidopterans , and dipterans
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S There are hundreds of pest species of this type , both in larvae and adults , among orthopterans , homopterans , heteropterans , coleopterans , lepidopterans , and dipterans
@@ -178,13 +130,7 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 S An example of an insect that causes this condition is the screwworm fly ( Cochliomyia ) of the southern United States and Central America
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
-S An example of an insect that causes this condition is the screwworm fly ( Cochliomyia ) of the southern United States and Central America
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
 S Biological methods of pest management have become increasingly important as the use of undesirable insecticides decreases
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S The constricting muscles in the body to exert pressure on the cap or by having an expandable region on the head ( many Diptera have a ptilinum )
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S The constricting muscles in the body to exert pressure on the cap or by having an expandable region on the head ( many Diptera have a ptilinum )
@@ -199,31 +145,7 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 S Larvae , which vary considerably in shape , are classified in five forms : eruciform ( caterpillar - like ) , scarabaeiform ( grublike ) , campodeiform ( elongated , flattened , and active ) , elateriform ( wireworm - like ) , and vermiform ( maggot - like )
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
-S Larvae , which vary considerably in shape , are classified in five forms : eruciform ( caterpillar - like ) , scarabaeiform ( grublike ) , campodeiform ( elongated , flattened , and active ) , elateriform ( wireworm - like ) , and vermiform ( maggot - like )
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S Larvae , which vary considerably in shape , are classified in five forms : eruciform ( caterpillar - like ) , scarabaeiform ( grublike ) , campodeiform ( elongated , flattened , and active ) , elateriform ( wireworm - like ) , and vermiform ( maggot - like )
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S Larvae , which vary considerably in shape , are classified in five forms : eruciform ( caterpillar - like ) , scarabaeiform ( grublike ) , campodeiform ( elongated , flattened , and active ) , elateriform ( wireworm - like ) , and vermiform ( maggot - like )
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S Larvae , which vary considerably in shape , are classified in five forms : eruciform ( caterpillar - like ) , scarabaeiform ( grublike ) , campodeiform ( elongated , flattened , and active ) , elateriform ( wireworm - like ) , and vermiform ( maggot - like )
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
 S The three types of pupae are : obtect , with appendages more or less glued to the body ; exarate , with the appendages free and not glued to the body ; and coarctate
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S The three types of pupae are : obtect , with appendages more or less glued to the body ; exarate , with the appendages free and not glued to the body ; and coarctate
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S The three types of pupae are : obtect , with appendages more or less glued to the body ; exarate , with the appendages free and not glued to the body ; and coarctate
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S The three types of pupae are : obtect , with appendages more or less glued to the body ; exarate , with the appendages free and not glued to the body ; and coarctate
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S Throughout the young larval stages a small gland behind the brain , called the corpus allatum , secretes juvenile hormone ( also known as neotenin )
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S Throughout the young larval stages a small gland behind the brain , called the corpus allatum , secretes juvenile hormone ( also known as neotenin )
@@ -235,25 +157,13 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 S Modified mechanical sense organs in the cuticle called campaniform organs
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
-S Modified mechanical sense organs in the cuticle called campaniform organs
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
 S In the honeybee the single queen in the hive secretes a pheromone known as the queen substance ( oxodecanoic acid )
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S At the back of the head and in the thorax , hardened ingrowths of the cuticle , known as apodemes , furnish a kind of internal skeleton for muscular attachment
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
-S At the back of the head and in the thorax , hardened ingrowths of the cuticle , known as apodemes , furnish a kind of internal skeleton for muscular attachment
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
 S The tarsal segments often carry claws with adhesive pads between them ( arolia or pulvilli )
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S The tarsal segments often carry claws with adhesive pads between them ( arolia or pulvilli )
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S the wings of the middle segment of the thorax have become thick and horny and serve as protective sheaths ( elytra ) of the membranous hindwings
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S the wings of the middle segment of the thorax have become thick and horny and serve as protective sheaths ( elytra ) of the membranous hindwings
@@ -262,16 +172,7 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 S In leaping insects ( e . g . , grasshoppers , fleas ) the force of muscle contraction is used to compress a pad of an elastic protein , resilin
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
-S In leaping insects ( e . g . , grasshoppers , fleas ) the force of muscle contraction is used to compress a pad of an elastic protein , resilin
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
 S Insects that feed solely on some restricted diet have special cells called mycetocytes that harbour symbiotic microorganisms
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S Insects that feed solely on some restricted diet have special cells called mycetocytes that harbour symbiotic microorganisms
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S The termination of the midgut is marked by the attachment of the malpighian tubules
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S The termination of the midgut is marked by the attachment of the malpighian tubules
@@ -283,16 +184,7 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 S Central pontine myelinolysis from the rapid correction of hyponatremia , which can result in seizures , ataxia , and disturbed consciousness
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
-S Central pontine myelinolysis from the rapid correction of hyponatremia , which can result in seizures , ataxia , and disturbed consciousness
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
 S Hemiballismus from damage to the subthalamic nucleus
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S Wallenberg stroke ( spinothalamic tract , spinal trigeminal tract , hypothalamospinal tract , vestibular nuclei )
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S Wallenberg stroke ( spinothalamic tract , spinal trigeminal tract , hypothalamospinal tract , vestibular nuclei )
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S Wallenberg stroke ( spinothalamic tract , spinal trigeminal tract , hypothalamospinal tract , vestibular nuclei )
@@ -559,185 +451,524 @@ A 9 10|||R:SPELL|||glandular|||REQUIRED|||-NONE-|||0
 S The surface of the tectum is covered with four bumps representing two paired structures : the superior and inferior colliculli
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
-S The surface of the tectum is covered with four bumps representing two paired structures : the superior and inferior colliculli
-A 19 20|||R:SPELL|||colliculi|||REQUIRED|||-NONE-|||0
-
 S Additionally , cranial nerve nuclei in the pons are involved in several other functions , including swallowing , tear production , hearing , and maintaining balance / equiyibrium
-A 27 28|||R:SPELL|||equilibrim|||REQUIRED|||-NONE-|||0
+A 0 3|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||The|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOUN|||surface|||REQUIRED|||-NONE-|||0
+A 5 6|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOUN|||tectum|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
+A 9 10|||R:VERB|||covered|||REQUIRED|||-NONE-|||0
+A 10 13|||R:OTHER|||with four|||REQUIRED|||-NONE-|||0
+A 13 16|||R:OTHER|||bumps representing|||REQUIRED|||-NONE-|||0
+A 16 19|||R:OTHER|||two paired|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOUN|||structures|||REQUIRED|||-NONE-|||0
+A 20 23|||R:OTHER|||: the superior|||REQUIRED|||-NONE-|||0
+A 24 25|||R:ADJ|||inferior|||REQUIRED|||-NONE-|||0
+A 25 28|||R:OTHER|||colliculi|||REQUIRED|||-NONE-|||0
 
 S The world ' s largest and most trusted free online thesarus
-A 10 11|||R:SPELL|||thesaurus|||REQUIRED|||-NONE-|||0
+A 0 1|||M:OTHER|||Additionally , cranial nerve nuclei in the|||REQUIRED|||-NONE-|||0
+A 1 3|||R:OTHER|||pons are involved in several other functions ,|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB|||including swallowing|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||, tear production , hearing ,|||REQUIRED|||-NONE-|||0
+A 6 11|||R:OTHER|||maintaining balance / equilibrim|||REQUIRED|||-NONE-|||0
 
 S The dictionary by Marriam Webster is America ' s most trusted online dictionary for English word definitions , meanings , and pronunciation
-A 3 4|||R:SPELL|||Merriam|||REQUIRED|||-NONE-|||0
+A 1 7|||R:OTHER|||world|||REQUIRED|||-NONE-|||0
+A 9 9|||M:OTHER|||largest and|||REQUIRED|||-NONE-|||0
+A 11 11|||M:ADJ|||free|||REQUIRED|||-NONE-|||0
+A 12 22|||R:OTHER|||thesaurus|||REQUIRED|||-NONE-|||0
 
 S Hybrid paladium nanoparticles and nickel single atom catalyst for efficient electrocatalytic ethanol oxidation
-A 1 2|||R:SPELL|||palladium|||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||The|||REQUIRED|||-NONE-|||0
+A 1 2|||R:OTHER|||dictionary by Merriam Webster is|||REQUIRED|||-NONE-|||0
+A 2 2|||M:OTHER|||America '|||REQUIRED|||-NONE-|||0
+A 2 5|||R:OTHER|||s most trusted|||REQUIRED|||-NONE-|||0
+A 5 8|||R:OTHER|||online dictionary|||REQUIRED|||-NONE-|||0
+A 9 13|||R:OTHER|||English word definitions , meanings , and pronunciation|||REQUIRED|||-NONE-|||0
 
 S SAC exhibited an outstanding electrocatalytic durability by chonoamperometric tests
-A 7 8|||R:SPELL|||chronoamperometric|||REQUIRED|||-NONE-|||0
+A 0 2|||R:OTHER|||Hybrid palladium nanoparticles|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||and|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||nickel single atom catalyst for efficient|||REQUIRED|||-NONE-|||0
+A 5 9|||R:OTHER|||ethanol oxidation|||REQUIRED|||-NONE-|||0
 
 S HLHS require both atrial and ventricular level communications and a patent ductas arteriosus
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S HLHS require both atrial and ventricular level communications and a patent ductas arteriosus
-A 11 12|||R:SPELL|||ductus|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOUN|||SAC|||REQUIRED|||-NONE-|||0
+A 1 4|||R:OTHER|||exhibited|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||an|||REQUIRED|||-NONE-|||0
+A 5 6|||R:ADJ|||outstanding electrocatalytic|||REQUIRED|||-NONE-|||0
+A 6 13|||R:OTHER|||durability by chronoamperometric tests|||REQUIRED|||-NONE-|||0
 
 S Children with conginital heart disease have a cardiac arrest
-A 2 3|||R:SPELL|||congenital|||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||HLHS require|||REQUIRED|||-NONE-|||0
+A 1 2|||R:SPELL|||both|||REQUIRED|||-NONE-|||0
+A 2 4|||R:OTHER|||atrial and ventricular level|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOUN|||communications|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||patent ductas|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOUN|||arteriosus|||REQUIRED|||-NONE-|||0
 
 S many possible repaired lesions or combination theorf
-A 6 7|||R:SPELL|||theory|||REQUIRED|||-NONE-|||0
+A 0 2|||R:OTHER|||HLHS require both atrial and ventricular|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||level|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOUN|||communications|||REQUIRED|||-NONE-|||0
+A 4 7|||R:OTHER|||and a patent ductus arteriosus|||REQUIRED|||-NONE-|||0
 
 S Most common : atrial fluter or atrial fibrillation
-A 4 5|||R:MORPH|||flutter|||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||Children with|||REQUIRED|||-NONE-|||0
+A 1 4|||R:OTHER|||congenital heart|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||disease have|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 6 7|||R:ADJ|||cardiac|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOUN|||arrest|||REQUIRED|||-NONE-|||0
 
 S The decision to pursue imaging for children post - operative from congennital cardiac surgery who require antiplatellet agents or anticoagulation must be considered
-A 16 17|||R:SPELL|||antiplatelet|||REQUIRED|||-NONE-|||0
+A 0 7|||R:OTHER|||many|||REQUIRED|||-NONE-|||0
+A 7 10|||R:ADJ|||possible|||REQUIRED|||-NONE-|||0
+A 10 16|||R:OTHER|||repaired|||REQUIRED|||-NONE-|||0
+A 16 18|||R:NOUN|||lesions|||REQUIRED|||-NONE-|||0
+A 19 23|||R:OTHER|||combination theory|||REQUIRED|||-NONE-|||0
 
 S Measurement of Fractional Exhauled Nitric Oxide ( FeNO ) : Comparison of Three Different Analysers
-A 3 4|||R:SPELL|||Exhaled|||REQUIRED|||-NONE-|||0
+A 0 9|||R:OTHER|||Most common|||REQUIRED|||-NONE-|||0
+A 10 12|||R:OTHER|||atrial flutter or|||REQUIRED|||-NONE-|||0
+A 12 15|||R:OTHER|||atrial fibrillation|||REQUIRED|||-NONE-|||0
 
 S In 1 0 0 asthmatics ( median : 5 3 years ( range 2 0 – 8 7 ) , 6 2 % female , 8 6 % on inhaled cortiocosteroids
-A 30 31|||R:SPELL|||corticosteroids|||REQUIRED|||-NONE-|||0
+A 0 6|||R:OTHER|||The decision to pursue imaging for children post - operative from congennital|||REQUIRED|||-NONE-|||0
+A 6 11|||R:OTHER|||cardiac surgery|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||who|||REQUIRED|||-NONE-|||0
+A 12 22|||R:OTHER|||require|||REQUIRED|||-NONE-|||0
+A 22 24|||R:NOUN|||antiplatelet|||REQUIRED|||-NONE-|||0
+A 24 28|||R:OTHER|||agents|||REQUIRED|||-NONE-|||0
+A 28 29|||R:SPELL|||or|||REQUIRED|||-NONE-|||0
+A 29 31|||R:OTHER|||anticoagulation must be considered|||REQUIRED|||-NONE-|||0
 
 S Type 2 - driven airway inflammation is a hallmark of bronchinal asthma
-A 10 11|||R:SPELL|||bronchial|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOUN|||Measurement|||REQUIRED|||-NONE-|||0
+A 1 2|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||of|||REQUIRED|||-NONE-|||0
+A 3 6|||R:OTHER|||Fractional Exhaled Nitric Oxide ( FeNO|||REQUIRED|||-NONE-|||0
+A 6 7|||R:OTHER|||)|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||:|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOUN|||Comparison|||REQUIRED|||-NONE-|||0
+A 10 11|||R:OTHER|||Three Different|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOUN|||Analysers|||REQUIRED|||-NONE-|||0
 
 S The use of exhaled nitric oxide concentration to identify eospinophilic airway
-A 9 10|||R:SPELL|||eosinophilic|||REQUIRED|||-NONE-|||0
+A 0 2|||R:OTHER|||In 1 0 0 asthmatics ( median : 5 3 years|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||(|||REQUIRED|||-NONE-|||0
+A 3 5|||R:OTHER|||range 2 0 – 8 7 ) , 6 2 %|||REQUIRED|||-NONE-|||0
+A 5 7|||R:OTHER|||female , 8 6 %|||REQUIRED|||-NONE-|||0
+A 7 8|||R:PART|||on|||REQUIRED|||-NONE-|||0
+A 8 11|||R:OTHER|||inhaled corticosteroids|||REQUIRED|||-NONE-|||0
 
 S Titrating steoids on exhaled nitric oxide in children with asthma
-A 1 2|||R:SPELL|||steroids|||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||Type 2 - driven|||REQUIRED|||-NONE-|||0
+A 1 6|||R:OTHER|||airway inflammation|||REQUIRED|||-NONE-|||0
+A 6 8|||R:OTHER|||is a hallmark|||REQUIRED|||-NONE-|||0
+A 8 9|||R:OTHER|||of bronchial|||REQUIRED|||-NONE-|||0
 
 S The Google Calender app helps you spend less time managing your schedule and more time enjoying it
-A 2 3|||R:MORPH|||Calendar|||REQUIRED|||-NONE-|||0
+A 1 5|||R:OTHER|||use|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||of|||REQUIRED|||-NONE-|||0
+A 6 7|||R:ADJ|||exhaled|||REQUIRED|||-NONE-|||0
+A 7 8|||R:ADJ|||nitric|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOUN|||oxide|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOUN|||concentration|||REQUIRED|||-NONE-|||0
+A 10 11|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
+A 11 14|||R:OTHER|||identify eosinophilic|||REQUIRED|||-NONE-|||0
+A 14 17|||R:OTHER|||airway|||REQUIRED|||-NONE-|||0
 
 S In digital imaging , a pixle , pel , or picture element is the smallest addressable element in a raster
-A 5 6|||R:SPELL|||pixel|||REQUIRED|||-NONE-|||0
+A 0 15|||R:OTHER|||Titrating steroids on exhaled|||REQUIRED|||-NONE-|||0
+A 15 16|||R:ADJ|||nitric|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOUN|||oxide|||REQUIRED|||-NONE-|||0
+A 18 18|||M:NOUN|||children|||REQUIRED|||-NONE-|||0
+A 18 19|||R:OTHER|||with|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOUN|||asthma|||REQUIRED|||-NONE-|||0
 
 S An embedded system is a microprocesor based computer hardware system with software
-A 5 6|||R:SPELL|||microprocessor|||REQUIRED|||-NONE-|||0
+A 0 2|||R:OTHER|||The Google Calendar app helps you spend less|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOUN|||time|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB|||managing|||REQUIRED|||-NONE-|||0
+A 4 5|||R:DET|||your|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOUN|||schedule|||REQUIRED|||-NONE-|||0
+A 6 7|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||more|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOUN|||time|||REQUIRED|||-NONE-|||0
+A 9 10|||R:VERB|||enjoying|||REQUIRED|||-NONE-|||0
+A 10 12|||R:OTHER|||it|||REQUIRED|||-NONE-|||0
 
 S DCTs are widely used for encoding , decoding , video coding , audio coding , multiplixing , control signals , signaling , analog - to - digital conversion , formatting luminance
-A 15 16|||R:SPELL|||multiplexing|||REQUIRED|||-NONE-|||0
+A 0 9|||R:OTHER|||In digital|||REQUIRED|||-NONE-|||0
+A 9 11|||R:NOUN|||imaging|||REQUIRED|||-NONE-|||0
+A 12 13|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOUN|||pixel|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOUN|||pel|||REQUIRED|||-NONE-|||0
+A 17 18|||R:OTHER|||or picture|||REQUIRED|||-NONE-|||0
+A 18 21|||R:OTHER|||element is|||REQUIRED|||-NONE-|||0
+A 21 22|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 22 27|||R:OTHER|||smallest addressable|||REQUIRED|||-NONE-|||0
+A 27 31|||R:OTHER|||element in a raster|||REQUIRED|||-NONE-|||0
 
 S DCTs are widely used for encoding , decoding , video coding , audio coding , multiplexing , control signals , signaling , analog - to - digital conversion , formatting luminence
-A 30 31|||R:SPELL|||luminance|||REQUIRED|||-NONE-|||0
+A 0 10|||R:OTHER|||An embedded system|||REQUIRED|||-NONE-|||0
+A 10 12|||R:OTHER|||is|||REQUIRED|||-NONE-|||0
+A 12 13|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 13 18|||R:OTHER|||microprocessor based computer|||REQUIRED|||-NONE-|||0
+A 18 31|||R:OTHER|||hardware system with software|||REQUIRED|||-NONE-|||0
 
 S The Acquissition could be as simple as being given an image which is in digital form
-A 1 2|||R:SPELL|||Acquisition|||REQUIRED|||-NONE-|||0
+A 0 1|||U:DET||||||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOUN|||DCTs|||REQUIRED|||-NONE-|||0
+A 2 4|||R:VERB:TENSE|||are|||REQUIRED|||-NONE-|||0
+A 4 5|||R:ADV|||widely|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||used|||REQUIRED|||-NONE-|||0
+A 6 7|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+A 7 9|||R:OTHER|||encoding , decoding , video coding ,|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||audio|||REQUIRED|||-NONE-|||0
+A 10 11|||R:OTHER|||coding , multiplexing ,|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOUN|||control|||REQUIRED|||-NONE-|||0
+A 12 14|||R:OTHER|||signals , signaling , analog - to -|||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||conversion , formatting luminance|||REQUIRED|||-NONE-|||0
 
 S combination of a computer processor , computer memory , and input / output periphiral devices
-A 13 14|||R:SPELL|||peripheral|||REQUIRED|||-NONE-|||0
+A 0 5|||R:OTHER|||DCTs are widely used for encoding , decoding|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOUN|||video|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOUN|||coding|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||audio|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOUN|||coding|||REQUIRED|||-NONE-|||0
+A 11 12|||R:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 12 15|||R:OTHER|||multiplexing , control signals , signaling , analog - to - digital conversion , formatting luminance|||REQUIRED|||-NONE-|||0
 
 S The bankrupcy process begins with a petition filed by the debtor , which is most common
-A 1 2|||R:SPELL|||bankruptcy|||REQUIRED|||-NONE-|||0
+A 1 2|||R:OTHER|||Acquisition could|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||be|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||as|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||simple|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||as|||REQUIRED|||-NONE-|||0
+A 6 7|||R:OTHER|||being|||REQUIRED|||-NONE-|||0
+A 7 9|||R:OTHER|||given|||REQUIRED|||-NONE-|||0
+A 9 10|||R:DET|||an|||REQUIRED|||-NONE-|||0
+A 10 12|||R:OTHER|||image|||REQUIRED|||-NONE-|||0
+A 14 15|||R:OTHER|||in digital|||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||form|||REQUIRED|||-NONE-|||0
 
 S Many banks have strong protections against fraudulant transactions
-A 6 7|||R:SPELL|||fraudulent|||REQUIRED|||-NONE-|||0
+A 0 2|||R:OTHER|||combination of|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOUN|||computer|||REQUIRED|||-NONE-|||0
+A 4 7|||R:OTHER|||processor , computer memory , and input / output peripheral|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOUN|||devices|||REQUIRED|||-NONE-|||0
 
 S To cash or deposit a check , you must sign your name on the back . This is known as an endorssement
-A 21 22|||R:SPELL|||endorsement|||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||The|||REQUIRED|||-NONE-|||0
+A 1 2|||R:OTHER|||bankruptcy|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||process|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||begins with|||REQUIRED|||-NONE-|||0
+A 5 8|||R:OTHER|||petition|||REQUIRED|||-NONE-|||0
+A 8 10|||R:VERB|||filed|||REQUIRED|||-NONE-|||0
+A 10 13|||R:OTHER|||by|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOUN|||debtor|||REQUIRED|||-NONE-|||0
+A 15 16|||R:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 16 17|||R:DET|||which|||REQUIRED|||-NONE-|||0
+A 18 22|||R:OTHER|||most common|||REQUIRED|||-NONE-|||0
 
 S This is a ruduimentary savings account that requires no minimum balance to enjoy benefits like net banking , online fund transfer
-A 3 4|||R:SPELL|||rudimentary|||REQUIRED|||-NONE-|||0
+A 0 4|||R:OTHER|||Many|||REQUIRED|||-NONE-|||0
+A 4 6|||R:NOUN|||banks|||REQUIRED|||-NONE-|||0
+A 6 19|||R:OTHER|||have strong protections against fraudulent|||REQUIRED|||-NONE-|||0
+A 19 21|||R:NOUN|||transactions|||REQUIRED|||-NONE-|||0
 
 S The minimum reserve required by the bank to maintain in the form of gold is called statutery liquidity ratio .
-A 16 17|||R:SPELL|||statutory|||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||To|||REQUIRED|||-NONE-|||0
+A 1 2|||R:OTHER|||cash|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||or|||REQUIRED|||-NONE-|||0
+A 3 5|||R:OTHER|||deposit|||REQUIRED|||-NONE-|||0
+A 5 6|||R:DET|||a|||REQUIRED|||-NONE-|||0
+A 6 8|||R:OTHER|||check , you|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB|||must sign|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||your name on|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOUN|||back|||REQUIRED|||-NONE-|||0
+A 12 13|||R:OTHER|||.|||REQUIRED|||-NONE-|||0
+A 13 14|||R:OTHER|||This|||REQUIRED|||-NONE-|||0
+A 15 16|||R:VERB|||known|||REQUIRED|||-NONE-|||0
+A 16 17|||R:PREP|||as|||REQUIRED|||-NONE-|||0
+A 17 18|||R:OTHER|||an|||REQUIRED|||-NONE-|||0
+A 18 20|||R:OTHER|||endorsement|||REQUIRED|||-NONE-|||0
 
 S A debetor is an individual or organization that owes money to the bank or any other financial institution .
-A 1 2|||R:SPELL|||debtor|||REQUIRED|||-NONE-|||0
+A 0 2|||R:OTHER|||This|||REQUIRED|||-NONE-|||0
+A 3 7|||R:OTHER|||a rudimentary savings account|||REQUIRED|||-NONE-|||0
+A 8 10|||R:OTHER|||requires no minimum balance|||REQUIRED|||-NONE-|||0
+A 11 11|||M:OTHER|||enjoy benefits like|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||net|||REQUIRED|||-NONE-|||0
+A 12 14|||R:OTHER|||banking|||REQUIRED|||-NONE-|||0
+A 14 15|||R:OTHER|||,|||REQUIRED|||-NONE-|||0
+A 15 16|||R:ADJ|||online|||REQUIRED|||-NONE-|||0
+A 16 17|||R:OTHER|||fund|||REQUIRED|||-NONE-|||0
+A 17 19|||R:OTHER|||transfer|||REQUIRED|||-NONE-|||0
 
 S A bank ombudman is the authority to look into complaints
-A 2 3|||R:SPELL|||ombudsman|||REQUIRED|||-NONE-|||0
+A 0 1|||R:DET|||The|||REQUIRED|||-NONE-|||0
+A 1 2|||R:OTHER|||minimum|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOUN|||reserve|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||required by|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOUN|||bank|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB|||maintain|||REQUIRED|||-NONE-|||0
+A 8 9|||R:OTHER|||in the form of gold is called statutory|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOUN|||liquidity ratio|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
 
 S This is an asessment of an individual ’ s past credit history equated into a number between 3 0 0 and 9 0 0
-A 3 4|||R:SPELL|||assessment|||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||A debtor|||REQUIRED|||-NONE-|||0
+A 2 5|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||or|||REQUIRED|||-NONE-|||0
+A 8 9|||R:OTHER|||organization|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||that|||REQUIRED|||-NONE-|||0
+A 10 11|||R:OTHER|||owes|||REQUIRED|||-NONE-|||0
+A 11 14|||R:OTHER|||money to the bank or|||REQUIRED|||-NONE-|||0
+A 14 15|||R:DET|||any|||REQUIRED|||-NONE-|||0
+A 15 23|||R:OTHER|||other financial institution|||REQUIRED|||-NONE-|||0
+A 23 24|||R:OTHER|||.|||REQUIRED|||-NONE-|||0
 
 S Forwarding , change returns , or address correction service included within a mail class is Ancilary Service
-A 15 16|||R:SPELL|||Ancillary|||REQUIRED|||-NONE-|||0
+A 0 12|||U:OTHER|||A|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOUN|||bank|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOUN|||ombudsman|||REQUIRED|||-NONE-|||0
+A 15 17|||R:OTHER|||the authority to look into complaints|||REQUIRED|||-NONE-|||0
 
 S The afidavit is a sworn statement made by a party , in writing
-A 1 2|||R:SPELL|||affidavit|||REQUIRED|||-NONE-|||0
+A 0 2|||R:OTHER|||This|||REQUIRED|||-NONE-|||0
+A 3 5|||R:OTHER|||an assessment of an individual ’ s past|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOUN|||credit history|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB|||equated|||REQUIRED|||-NONE-|||0
+A 7 8|||R:PREP|||into|||REQUIRED|||-NONE-|||0
+A 9 13|||R:OTHER|||number between 3 0 0 and 9 0 0|||REQUIRED|||-NONE-|||0
 
 S Atestation is authentication of a signature by an authorised person
-A 0 1|||R:SPELL|||Attestation|||REQUIRED|||-NONE-|||0
+A 0 0|||M:OTHER|||Forwarding ,|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOUN|||change returns|||REQUIRED|||-NONE-|||0
+A 1 2|||R:OTHER|||, or address|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOUN|||correction service|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||included within|||REQUIRED|||-NONE-|||0
+A 5 7|||R:OTHER|||mail|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||class|||REQUIRED|||-NONE-|||0
+A 8 10|||R:OTHER|||is Ancillary Service|||REQUIRED|||-NONE-|||0
 
 S An intervenar is a person who is not a party to the proceedings , with the permission of the court
-A 1 2|||R:SPELL|||intervenor|||REQUIRED|||-NONE-|||0
+A 0 1|||R:DET|||The|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOUN|||affidavit|||REQUIRED|||-NONE-|||0
+A 4 8|||R:OTHER|||sworn statement made by|||REQUIRED|||-NONE-|||0
+A 10 13|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 20|||R:OTHER|||in writing|||REQUIRED|||-NONE-|||0
 
 S An intelectual is a person who engages in critical thinking
-A 1 2|||R:SPELL|||intellectual|||REQUIRED|||-NONE-|||0
+A 0 2|||R:OTHER|||Attestation|||REQUIRED|||-NONE-|||0
+A 3 3|||M:OTHER|||authentication of|||REQUIRED|||-NONE-|||0
+A 4 7|||R:OTHER|||signature by|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||an|||REQUIRED|||-NONE-|||0
+A 8 9|||R:ADJ|||authorised|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOUN|||person|||REQUIRED|||-NONE-|||0
 
 S The podscast is a digital file that normally contains audio or video record and is available on the Internet as well
-A 1 2|||R:SPELL|||podcast|||REQUIRED|||-NONE-|||0
+A 0 1|||R:DET|||An|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOUN|||intervenor|||REQUIRED|||-NONE-|||0
+A 4 6|||R:OTHER|||person who is not|||REQUIRED|||-NONE-|||0
+A 6 7|||R:DET|||a|||REQUIRED|||-NONE-|||0
+A 7 11|||R:OTHER|||party to|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOUN|||proceedings|||REQUIRED|||-NONE-|||0
+A 13 14|||R:OTHER|||,|||REQUIRED|||-NONE-|||0
+A 14 16|||R:OTHER|||with the permission|||REQUIRED|||-NONE-|||0
+A 16 17|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 18 21|||R:OTHER|||court|||REQUIRED|||-NONE-|||0
 
 S Typically , you enter anoymous as a username and your e - mail address as a password
-A 4 5|||R:SPELL|||anonymous|||REQUIRED|||-NONE-|||0
+A 0 3|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||An|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOUN|||intellectual|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||is|||REQUIRED|||-NONE-|||0
+A 7 9|||R:OTHER|||person|||REQUIRED|||-NONE-|||0
+A 9 10|||R:PRON|||who|||REQUIRED|||-NONE-|||0
+A 10 13|||R:OTHER|||engages in|||REQUIRED|||-NONE-|||0
+A 13 17|||R:OTHER|||critical thinking|||REQUIRED|||-NONE-|||0
 
 S Wired equivelent privacy ( WEP ) is a security protocol used in wi - fi networks .
-A 1 2|||R:SPELL|||equivalent|||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||The|||REQUIRED|||-NONE-|||0
+A 1 3|||R:NOUN|||podcast|||REQUIRED|||-NONE-|||0
+A 3 6|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 8 10|||R:OTHER|||digital file that normally contains audio or video|||REQUIRED|||-NONE-|||0
+A 10 11|||R:OTHER|||record|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 12 17|||R:OTHER|||is available on the Internet as well|||REQUIRED|||-NONE-|||0
 
 S 3 dimensional homogineous coordinates are needed
-A 2 3|||R:SPELL|||homogeneous|||REQUIRED|||-NONE-|||0
+A 0 6|||R:OTHER|||Typically , you enter anonymous as a username and your e - mail address as a password|||REQUIRED|||-NONE-|||0
 
 S Read the image and convert it into grayscale with Mathlab
-A 9 10|||R:SPELL|||Matlab|||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||Wired|||REQUIRED|||-NONE-|||0
+A 1 2|||R:OTHER|||equivalent|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||privacy ( WEP ) is|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOUN|||security|||REQUIRED|||-NONE-|||0
+A 5 7|||R:OTHER|||protocol used in|||REQUIRED|||-NONE-|||0
+A 7 9|||R:OTHER|||wi - fi|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||networks .|||REQUIRED|||-NONE-|||0
 
 S Discrete cosin transform which is usually called DCT , and horizontal Projection
-A 1 2|||R:SPELL|||cosine|||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||3 dimensional|||REQUIRED|||-NONE-|||0
+A 1 2|||R:ADJ|||homogeneous|||REQUIRED|||-NONE-|||0
+A 2 12|||R:OTHER|||coordinates are needed|||REQUIRED|||-NONE-|||0
 
 S Gray level distribution problem can be improved by Histolgram Equalization
-A 8 9|||R:SPELL|||Histogram|||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||Read|||REQUIRED|||-NONE-|||0
+A 1 2|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 2 4|||R:NOUN|||image|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 5 7|||R:VERB|||convert|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PRON|||it|||REQUIRED|||-NONE-|||0
+A 7 8|||R:PREP|||into|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOUN|||grayscale|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PREP|||with|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOUN|||Matlab|||REQUIRED|||-NONE-|||0
 
 S Smoothing method can be implemented with mask and Convoltion
-A 8 9|||R:SPELL|||Convolution|||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||Discrete cosine|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOUN|||transform|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||which|||REQUIRED|||-NONE-|||0
+A 3 5|||R:OTHER|||is usually called|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||DCT|||REQUIRED|||-NONE-|||0
+A 6 7|||R:OTHER|||,|||REQUIRED|||-NONE-|||0
+A 8 9|||R:OTHER|||horizontal Projection|||REQUIRED|||-NONE-|||0
 
 S Software developers , engineers and scientists develop fatigua detection software using various physiological cues to determine the state of fatigue or drowsiness
-A 7 8|||R:SPELL|||fatigue|||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||Gray|||REQUIRED|||-NONE-|||0
+A 1 9|||R:OTHER|||level distribution|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOUN|||problem|||REQUIRED|||-NONE-|||0
+A 10 14|||R:OTHER|||can be|||REQUIRED|||-NONE-|||0
+A 14 16|||R:VERB|||improved|||REQUIRED|||-NONE-|||0
+A 16 21|||R:OTHER|||by Histogram|||REQUIRED|||-NONE-|||0
+A 21 22|||R:NOUN|||Equalization|||REQUIRED|||-NONE-|||0
 
 S The measurement of brain activity ( electroencephelogram ) is widely accepted as the standard in fatigue monitoring
-A 6 7|||R:SPELL|||electroencephalogram|||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||Smoothing|||REQUIRED|||-NONE-|||0
+A 1 12|||R:OTHER|||method can be implemented|||REQUIRED|||-NONE-|||0
+A 12 13|||R:OTHER|||with|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOUN|||mask|||REQUIRED|||-NONE-|||0
+A 14 17|||R:OTHER|||and Convolution|||REQUIRED|||-NONE-|||0
 
 S Numerous microcontrolers have been developed for embedded systems use
-A 1 2|||R:SPELL|||microcontrollers|||REQUIRED|||-NONE-|||0
+A 0 2|||R:OTHER|||Software developers , engineers|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||scientists|||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:FORM|||develop|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||fatigue detection software using various physiological cues to|||REQUIRED|||-NONE-|||0
+A 6 9|||R:OTHER|||determine the state of fatigue or drowsiness|||REQUIRED|||-NONE-|||0
 
 S Examples of devices that may adopt this approach are ATMs and arcode machines
-A 11 12|||R:SPELL|||arcade|||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||The measurement|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOUN|||brain activity|||REQUIRED|||-NONE-|||0
+A 3 5|||R:OTHER|||( electroencephalogram ) is widely|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||accepted as|||REQUIRED|||-NONE-|||0
+A 6 7|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 7 11|||R:OTHER|||standard in|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOUN|||fatigue|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOUN|||monitoring|||REQUIRED|||-NONE-|||0
 
 S Prominent examples of this approach include Arduino and Raperry Pi
-A 8 9|||R:SPELL|||Rasperry|||REQUIRED|||-NONE-|||0
+A 0 1|||R:ADJ|||Numerous|||REQUIRED|||-NONE-|||0
+A 1 3|||R:OTHER|||microcontrollers have been developed for|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||embedded|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOUN|||systems|||REQUIRED|||-NONE-|||0
+A 5 10|||R:OTHER|||use|||REQUIRED|||-NONE-|||0
 
 S Some embedded systems are predominantly controlled by interupts
-A 7 8|||R:SPELL|||interrupts|||REQUIRED|||-NONE-|||0
+A 0 0|||M:OTHER|||Examples of devices|||REQUIRED|||-NONE-|||0
+A 0 1|||R:DET|||that|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB|||may adopt|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||this approach|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||ATMs|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 6 7|||R:OTHER|||arcade|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOUN|||machines|||REQUIRED|||-NONE-|||0
 
 S This method brings the system close to a multitasking kernal with discrete processes
-A 9 10|||R:SPELL|||kernel|||REQUIRED|||-NONE-|||0
+A 0 1|||M:OTHER|||Prominent examples of this|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOUN|||approach|||REQUIRED|||-NONE-|||0
+A 2 7|||R:OTHER|||include Arduino|||REQUIRED|||-NONE-|||0
+A 7 10|||R:OTHER|||and Rasperry|||REQUIRED|||-NONE-|||0
+A 10 13|||R:OTHER|||Pi|||REQUIRED|||-NONE-|||0
 
 S Common examples of embedded monollithic kernels are embedded Linux
-A 4 5|||R:SPELL|||monolithic|||REQUIRED|||-NONE-|||0
+A 0 3|||R:OTHER|||Some|||REQUIRED|||-NONE-|||0
+A 4 6|||R:OTHER|||systems|||REQUIRED|||-NONE-|||0
+A 7 9|||R:OTHER|||predominantly controlled by interrupts|||REQUIRED|||-NONE-|||0
 
 S Common examples of embedded monolithic kernels are embeded Linux
-A 7 8|||R:VERB:INFL|||embedded|||REQUIRED|||-NONE-|||0
+A 0 3|||R:OTHER|||This method brings the system close to|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOUN|||multitasking|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOUN:NUM|||kernel|||REQUIRED|||-NONE-|||0
+A 6 7|||R:OTHER|||with discrete|||REQUIRED|||-NONE-|||0
+A 7 9|||R:OTHER|||processes|||REQUIRED|||-NONE-|||0
 
 S The scientific study of language is called lingustics
-A 7 8|||R:SPELL|||linguistics|||REQUIRED|||-NONE-|||0
+A 0 2|||R:OTHER|||Common|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOUN|||examples|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||embedded monolithic kernels|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:SVA|||are|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB|||embedded|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOUN|||Linux|||REQUIRED|||-NONE-|||0
 
 S encoded into secondary media using auditory , visual , or tactile stimuli – for example , in writing , whistling , signing , or braile
-A 24 25|||R:SPELL|||braille|||REQUIRED|||-NONE-|||0
+A 0 10|||R:OTHER|||The scientific|||REQUIRED|||-NONE-|||0
+A 10 12|||R:NOUN|||study|||REQUIRED|||-NONE-|||0
+A 12 13|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 13 14|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 14 25|||R:OTHER|||language is called linguistics|||REQUIRED|||-NONE-|||0
 
 S the originator of the generative theory of grammer , who has defined language as the construction of sentences
-A 7 8|||R:SPELL|||grammar|||REQUIRED|||-NONE-|||0
+A 0 2|||R:OTHER|||encoded|||REQUIRED|||-NONE-|||0
+A 2 5|||R:OTHER|||into secondary media using auditory , visual , or|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOUN|||tactile stimuli|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PUNCT|||–|||REQUIRED|||-NONE-|||0
+A 6 7|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOUN|||example|||REQUIRED|||-NONE-|||0
+A 9 12|||R:OTHER|||in|||REQUIRED|||-NONE-|||0
+A 12 14|||R:OTHER|||writing|||REQUIRED|||-NONE-|||0
+A 14 15|||R:OTHER|||,|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOUN|||whistling|||REQUIRED|||-NONE-|||0
+A 16 17|||R:OTHER|||,|||REQUIRED|||-NONE-|||0
+A 17 18|||R:OTHER|||signing , or braille|||REQUIRED|||-NONE-|||0
 
 S study grammar as dynamic phennomena , as structures that are always in the process of changing as they are employed by their speakers
-A 4 5|||R:SPELL|||phenomena|||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||the originator of the generative theory of|||REQUIRED|||-NONE-|||0
+A 2 2|||M:OTHER|||, who|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||has|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB|||defined|||REQUIRED|||-NONE-|||0
+A 4 6|||R:OTHER|||language|||REQUIRED|||-NONE-|||0
+A 7 12|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOUN|||construction|||REQUIRED|||-NONE-|||0
+A 15 23|||R:OTHER|||sentences|||REQUIRED|||-NONE-|||0
 
 S they employ grammatical and sematic categories , such as noun and verb , present
-A 4 5|||R:MORPH|||semantic|||REQUIRED|||-NONE-|||0
+A 0 3|||R:OTHER|||study grammar|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||as|||REQUIRED|||-NONE-|||0
+A 4 5|||R:ADJ|||dynamic|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOUN|||phenomena|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||as structures that are always in the process of changing|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||they|||REQUIRED|||-NONE-|||0
+A 10 14|||R:OTHER|||are employed by their speakers|||REQUIRED|||-NONE-|||0
 
 S the distinctions between syntagam and paradigm
-A 3 4|||R:SPELL|||syntagm|||REQUIRED|||-NONE-|||0
+A 0 1|||R:PRON|||they|||REQUIRED|||-NONE-|||0
+A 1 2|||R:OTHER|||employ grammatical and semantic|||REQUIRED|||-NONE-|||0
+A 2 4|||R:OTHER|||categories , such as noun|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||verb , present|||REQUIRED|||-NONE-|||0
 
 S the distinctions between syntagm and paradigam
 A 5 6|||R:SPELL|||paradigm|||REQUIRED|||-NONE-|||0
@@ -779,15 +1010,6 @@ S Anastomosis joining together of adjacent tubes
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S Choanal opening : the opening from the nasal cavity into the roof of the mouth . Choanal means ‘ funnel - like ’
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S The Phanerozoic Eon is divided into three eras : the Paleozoic , Mesozoic , and Cenozoic
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S The Phanerozoic Eon is divided into three eras : the Paleozoic , Mesozoic , and Cenozoic
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
-S The Phanerozoic Eon is divided into three eras : the Paleozoic , Mesozoic , and Cenozoic
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S The Phanerozoic Eon is divided into three eras : the Paleozoic , Mesozoic , and Cenozoic
@@ -862,17 +1084,32 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 S Plueral effusion is build - up of excess fluid between the layers of the pleura outside the lungs
 A 0 1|||R:SPELL|||Pleural|||REQUIRED|||-NONE-|||0
 
-S Plueral effusion is build - up of excess fluid between the layers of the pleura outside the lungs
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-
 S Carpopedal spasms are frequent and involuntary muscle contractions in the hands and feet
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
+A 0 1|||R:ADJ|||Plueral|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOUN|||effusion|||REQUIRED|||-NONE-|||0
+A 2 8|||R:OTHER|||is build - up of excess fluid between the layers of the pleura|||REQUIRED|||-NONE-|||0
+A 8 9|||R:PREP|||outside|||REQUIRED|||-NONE-|||0
+A 10 13|||R:OTHER|||lungs|||REQUIRED|||-NONE-|||0
 
 S Having no apparent stem , or at least none visible above the ground surface acaulescent
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
+A 0 3|||R:OTHER|||Carpopedal|||REQUIRED|||-NONE-|||0
+A 3 7|||R:OTHER|||spasms are frequent and|||REQUIRED|||-NONE-|||0
+A 7 8|||R:ADJ|||involuntary|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOUN|||muscle|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOUN|||contractions|||REQUIRED|||-NONE-|||0
+A 10 11|||R:PREP|||in|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOUN|||hands|||REQUIRED|||-NONE-|||0
+A 13 14|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOUN|||feet|||REQUIRED|||-NONE-|||0
 
 S accumbent it means that one edge of the cotyledon lies along the radicle
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
+A 0 2|||R:OTHER|||Having no apparent stem , or at|||REQUIRED|||-NONE-|||0
+A 2 4|||R:OTHER|||least|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||none|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||visible|||REQUIRED|||-NONE-|||0
+A 6 7|||R:PREP|||above|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOUN|||ground|||REQUIRED|||-NONE-|||0
+A 9 13|||R:OTHER|||surface acaulescent|||REQUIRED|||-NONE-|||0
 
 S accumbent it means that one edge of the cotylidon lies along the radicle
 A 8 9|||R:SPELL|||cotyledon|||REQUIRED|||-NONE-|||0
