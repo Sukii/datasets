@@ -424,10 +424,8 @@ A 6 7|||R:SPELL|||spinal|||REQUIRED|||-NONE-|||0
 S the medial longitudinal fisure that runs from the front of the head to the back
 A 3 4|||R:SPELL|||fissure|||REQUIRED|||-NONE-|||0
 
-S The Parkinnson ' s disease that is rich in dopamine neurons and part of the basal ganglia
-A 1 2|||R:SPELL|||Parkinson|||REQUIRED|||-NONE-|||0
-
 S The Parkinnson ' s disease that is rich in dopamin neurons and part of the basal ganglia
+A 1 2|||R:SPELL|||Parkinson|||REQUIRED|||-NONE-|||0
 A 9 10|||R:SPELL|||dopamine|||REQUIRED|||-NONE-|||0
 
 S Three layers of protective covering called maninges surround the brain and the spinal cord
