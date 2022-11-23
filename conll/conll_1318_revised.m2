@@ -54,12 +54,10 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 S Surrounded by such concerns , it is very likely that we are distracted to worry about these problems .
 A 13 13|||M:ADV|||enough|||REQUIRED|||-NONE-|||0
 
-S It is a concern that will be with us during our whole life , because we will never know when the ' ' potential bomb ' ' will explode .
+S It is a concern that will be with us during our whole life , because we will never know when the " potential bomb " will explode .
 A 9 10|||U:PREP||||||REQUIRED|||-NONE-|||0
 A 13 14|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 A 16 17|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
-A 21 23|||R:PUNCT|||"|||REQUIRED|||-NONE-|||0
-A 25 27|||R:PUNCT|||"|||REQUIRED|||-NONE-|||0
 
 S On the other hand , if there are ways can help us to control or cure the disease , we can going through thses process from the scope of the whole family .
 A 9 9|||M:DET|||that|||REQUIRED|||-NONE-|||0
@@ -173,8 +171,8 @@ A 27 27|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 31 32|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 A 32 33|||R:OTHER|||or|||REQUIRED|||-NONE-|||0
 
-S In addition , a woman testing positive for BRCA 1 would be expected to allow her brother or sister to disclose such information to a niece or nephew rather than do it herself , although this may be further complicated by an individual ' s response to risk information as they not want to know .
-A 51 51|||M:VERB:TENSE|||may|||REQUIRED|||-NONE-|||0
+S In addition , a woman testing positive for BRCA1 would be expected to allow her brother or sister to disclose such information to a niece or nephew rather than do it herself , although this may be further complicated by an individual ' s response to risk information as they not want to know .
+A 50 50|||M:VERB:TENSE|||may|||REQUIRED|||-NONE-|||0
 
 S Hence , there were also tensions if participants felt that they could neither pass on information to relatives who needed to know ( such as nieces and nephews ) nor persuade those with authority ( the parents ) to do so .
 A 33 33|||M:DET|||the|||REQUIRED|||-NONE-|||0
@@ -1077,9 +1075,11 @@ A 8 9|||R:NOUN:NUM|||points|||REQUIRED|||-NONE-|||0
 A 10 11|||R:NOUN:NUM|||view|||REQUIRED|||-NONE-|||0
 A 12 13|||U:DET||||||REQUIRED|||-NONE-|||0
 
-S Thus , we are going to identify the advantages and disadvantages of the issue which is " should " or " should not " .
+S Thus , we are going to identify the advantages and disadvantages of the issue which is should or should not " .
 A 14 14|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 15 16|||R:VERB:SVA|||are|||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||are "|||REQUIRED|||-NONE-|||0
+A 17 17|||M:PUNCT|||"|||REQUIRED|||-NONE-|||0
+A 18 18|||M:PUNCT|||"|||REQUIRED|||-NONE-|||0
 
 S Firstly , I believe most of us will agree with the sentences below : " I will be anxious about my families when he or she told me that he or she was a carrier of a known genetic risk " .
 A 11 12|||R:NOUN:NUM|||sentence|||REQUIRED|||-NONE-|||0
@@ -1492,7 +1492,7 @@ A 13 14|||R:PREP|||in|||REQUIRED|||-NONE-|||0
 S For example , hypertension is partially due to genetic factors , but environmental factors also play an important role .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
-S People who aware of having such disorder can prevent the disorder to happen by adapting a healthy lifestyle , including having a balanced diet and at least having exercise for 3 0 minutes every day .
+S People who aware of having such disorder can prevent the disorder to happen by adapting a healthy lifestyle , including having a balanced diet and at least having exercise for 30 minutes every day .
 A 2 2|||M:VERB|||are|||REQUIRED|||-NONE-|||0
 A 6 6|||M:DET|||a|||REQUIRED|||-NONE-|||0
 A 11 12|||R:PART|||from|||REQUIRED|||-NONE-|||0
@@ -1566,10 +1566,10 @@ A 25 25|||M:NOUN:POSS|||'|||REQUIRED|||-NONE-|||0
 S It challenges the confidentiality and privacy principles .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
-S Currently , under the Health Insurance Portability and Accountability Act of 1 9 9 6 ( HIPAA ) in the United States , there is no legal obligation requirement to disclose information to relatives , it is up to the patient ' s wish to disclose to their family members .
-A 28 29|||U:NOUN||||||REQUIRED|||-NONE-|||0
-A 34 35|||R:PUNCT|||;|||REQUIRED|||-NONE-|||0
-A 41 44|||U:OTHER||||||REQUIRED|||-NONE-|||0
+S Currently , under the Health Insurance Portability and Accountability Act of 1996 ( HIPAA ) in the United States , there is no legal obligation requirement to disclose information to relatives , it is up to the patient ' s wish to disclose to their family members .
+A 25 26|||U:NOUN||||||REQUIRED|||-NONE-|||0
+A 31 32|||R:PUNCT|||;|||REQUIRED|||-NONE-|||0
+A 38 41|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
 S Early disclosement to family members brings in positive reaction and prevention , as in the case of Angelina Jolie ,
 A 1 2|||R:SPELL|||disclosure|||REQUIRED|||-NONE-|||0
@@ -1590,13 +1590,13 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 S As in the case of Alzheimer patients , it is up to the patient ' s own choice to disclose information .
 A 14 18|||U:OTHER||||||REQUIRED|||-NONE-|||0
 
-S However , research has shown that doctors have tried to interpret who , how and whom will Alzheimer disease be disclosed to minimise potential negative impact to families members ( DementiaToday , 2 0 1 2 ) .
+S However , research has shown that doctors have tried to interpret who , how and whom will Alzheimer disease be disclosed to minimise potential negative impact to families members ( DementiaToday , 2012 ) .
 A 15 15|||M:PART|||to|||REQUIRED|||-NONE-|||0
 A 16 19|||R:WO|||Alzheimer disease will|||REQUIRED|||-NONE-|||0
 A 26 27|||R:PREP|||on|||REQUIRED|||-NONE-|||0
 A 27 28|||R:NOUN:NUM|||family|||REQUIRED|||-NONE-|||0
 
-S There are associations provide helps to Alzheimer patients like Alzheimer ' s Association ( Alzheimer ' s Association , 1 9 8 0 ) .
+S There are associations provide helps to Alzheimer patients like Alzheimer ' s Association ( Alzheimer ' s Association , 1980 ) .
 A 3 3|||M:DET|||that|||REQUIRED|||-NONE-|||0
 A 4 5|||R:MORPH|||help|||REQUIRED|||-NONE-|||0
 
@@ -1651,13 +1651,13 @@ A 12 13|||R:NOUN:NUM|||lives|||REQUIRED|||-NONE-|||0
 S To the whole society , it is a duty .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
-S Take H 1 N 1 as an example , all the people in Singapore including students at school , travelers at the Changi Airport , workers in the office as well as passengers on the street are forced by law to take their temperature and report the result to the relevant government authority in charge .
-A 8 10|||R:PUNCT|||. All|||REQUIRED|||-NONE-|||0
-A 14 14|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 29 31|||R:OTHER|||,|||REQUIRED|||-NONE-|||0
-A 31 32|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
-A 32 33|||R:NOUN|||travelers|||REQUIRED|||-NONE-|||0
-A 36 37|||R:OTHER|||, were|||REQUIRED|||-NONE-|||0
+S Take H1N1 as an example , all the people in Singapore including students at school , travelers at the Changi Airport , workers in the office as well as passengers on the street are forced by law to take their temperature and report the result to the relevant government authority in charge .
+A 5 7|||R:PUNCT|||. All|||REQUIRED|||-NONE-|||0
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 26 28|||R:OTHER|||,|||REQUIRED|||-NONE-|||0
+A 28 29|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 29 30|||R:NOUN|||travelers|||REQUIRED|||-NONE-|||0
+A 33 34|||R:OTHER|||, were|||REQUIRED|||-NONE-|||0
 
 S To those family members who care about them , it is also a moral obligation .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -1688,15 +1688,15 @@ A 7 8|||R:NOUN:NUM|||groups|||REQUIRED|||-NONE-|||0
 A 17 18|||R:VERB:SVA|||are|||REQUIRED|||-NONE-|||0
 A 34 34|||M:DET|||their|||REQUIRED|||-NONE-|||0
 
-S A study of New York University in 2 0 1 0 shown that patients with family members around generally recovers 2 - 4 days faster than those taken care by professional nurses .
+S A study of New York University in 2010 shown that patients with family members around generally recovers 2 - 4 days faster than those taken care by professional nurses .
 A 2 3|||R:PREP|||by|||REQUIRED|||-NONE-|||0
-A 11 12|||R:VERB:FORM|||showed|||REQUIRED|||-NONE-|||0
-A 19 20|||R:MORPH|||recover|||REQUIRED|||-NONE-|||0
-A 29 29|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:TENSE|||showed|||REQUIRED|||-NONE-|||0
+A 16 17|||R:MORPH|||recover|||REQUIRED|||-NONE-|||0
+A 26 26|||M:PREP|||of|||REQUIRED|||-NONE-|||0
 
-S Even for those patients with terminal diseases , the duration of their survival is 3 0 % longer due to the family support .
+S Even for those patients with terminal diseases , the duration of their survival is 30 % longer due to the family support .
 A 11 12|||U:DET||||||REQUIRED|||-NONE-|||0
-A 20 21|||U:DET||||||REQUIRED|||-NONE-|||0
+A 19 20|||U:DET||||||REQUIRED|||-NONE-|||0
 
 S Some people may say that telling the truth may arise some unnecessary doubts and panics which will endanger the family harmony .
 A 9 10|||R:VERB|||raise|||REQUIRED|||-NONE-|||0
@@ -2781,13 +2781,13 @@ A 11 11|||M:VERB:TENSE|||had|||REQUIRED|||-NONE-|||0
 A 13 13|||M:PREP|||in|||REQUIRED|||-NONE-|||0
 A 13 14|||R:ORTH|||Singapore|||REQUIRED|||-NONE-|||0
 
-S And now I got over 5 0 0 friends on Facebook and buried myself with hundrends of seeds every day .
+S And now I got over 500 friends on Facebook and buried myself with hundrends of seeds every day .
 A 3 4|||R:VERB|||have|||REQUIRED|||-NONE-|||0
-A 12 12|||M:VERB:TENSE|||am|||REQUIRED|||-NONE-|||0
-A 13 14|||U:PRON||||||REQUIRED|||-NONE-|||0
-A 14 15|||R:PREP|||in|||REQUIRED|||-NONE-|||0
-A 15 16|||R:SPELL|||hundreds|||REQUIRED|||-NONE-|||0
-A 17 18|||R:NOUN|||feeds|||REQUIRED|||-NONE-|||0
+A 10 10|||M:VERB:TENSE|||am|||REQUIRED|||-NONE-|||0
+A 11 12|||U:PRON||||||REQUIRED|||-NONE-|||0
+A 12 13|||R:PREP|||in|||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||hundreds|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOUN|||feeds|||REQUIRED|||-NONE-|||0
 
 S We know each others ' status , changements and so on through the social media .
 A 3 4|||R:MORPH|||other|||REQUIRED|||-NONE-|||0
@@ -3374,8 +3374,8 @@ A 9 11|||R:ORTH|||downsides|||REQUIRED|||-NONE-|||0
 S Nowadays , social media are able to disseminate information faster than any other media .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
-S There are about 5 0 % of the people who have learnt about breaking news from social media .
-A 10 12|||R:VERB:TENSE|||learn|||REQUIRED|||-NONE-|||0
+S There are about 50 % of the people who have learnt about breaking news from social media .
+A 9 11|||R:VERB:TENSE|||learn|||REQUIRED|||-NONE-|||0
 
 S This is due to people spending comparatively more time on social networking than time on reading newpapers .
 A 16 17|||R:SPELL|||newspapers|||REQUIRED|||-NONE-|||0
@@ -3394,8 +3394,8 @@ A 12 13|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
 S There might be false information or hoaxes spreading around on social media .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
-S For example , in 2 0 1 2 , there were false rumors of fires , shootouts , and caravans of gunmen in a Mexico City suburb which had spread through Twitter and Facebook .
-A 27 27|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+S For example , in 2012 , there were false rumors of fires , shootouts , and caravans of gunmen in a Mexico City suburb which had spread through Twitter and Facebook .
+A 24 24|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 
 S This had caused panic among the people who had flooded the local police department with numerous phone calls , and this had resulted temporarily closed of schools .
 A 23 23|||M:PREP|||in|||REQUIRED|||-NONE-|||0
@@ -4087,9 +4087,9 @@ A 28 29|||R:PRON|||them|||REQUIRED|||-NONE-|||0
 S Nowadays , social media sites are commonly used in the society .
 A 9 10|||U:DET||||||REQUIRED|||-NONE-|||0
 
-S I believe 8 0 percents of people plays social media sites .
-A 4 5|||R:NOUN:NUM|||percent|||REQUIRED|||-NONE-|||0
-A 7 8|||R:VERB|||use|||REQUIRED|||-NONE-|||0
+S I believe 80 percents of people plays social media sites .
+A 3 4|||R:NOUN:NUM|||percent|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB|||use|||REQUIRED|||-NONE-|||0
 
 S These sites play the role of connecting people around the world .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -4780,11 +4780,11 @@ S Moreover , people usually like to share boldly about their real feelings onlin
 A 17 18|||R:MORPH|||real|||REQUIRED|||-NONE-|||0
 A 18 19|||R:OTHER|||life|||REQUIRED|||-NONE-|||0
 
-S This has been indicated in a report done by Boston University in 2 0 1 2 , 8 0 % of information posted online is true while a person may like 3 out of 1 0 times in real life .
-A 16 17|||R:PUNCT|||:|||REQUIRED|||-NONE-|||0
-A 21 21|||M:DET|||the|||REQUIRED|||-NONE-|||0
-A 26 26|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 30 31|||R:VERB|||lie|||REQUIRED|||-NONE-|||0
+S This has been indicated in a report done by Boston University in 2012 , 80 % of information posted online is true while a person may like 3 out of 10 times in real life .
+A 13 14|||R:PUNCT|||:|||REQUIRED|||-NONE-|||0
+A 17 17|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 22 22|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 26 27|||R:VERB|||lie|||REQUIRED|||-NONE-|||0
 
 S This shows that a facebook friend may know more about you than your close friend who does not have a facebook account .
 A 4 5|||R:ORTH|||Facebook|||REQUIRED|||-NONE-|||0
@@ -4809,8 +4809,8 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 S That eliminates the incomplete information disadvantage for some remote rural regions where people are less aware of what actually is happening around them .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
-S One of the examples is the 2 0 1 2 riots happened in Egypt and Zambia .
-A 11 11|||M:DET|||that|||REQUIRED|||-NONE-|||0
+S One of the examples is the 2012 riots happened in Egypt and Zambia .
+A 8 8|||M:DET|||that|||REQUIRED|||-NONE-|||0
 
 S The idea of searching for democracy is passed from Egyptians to people in Zambia quickly through the use of social media .
 A 6 7|||R:VERB:TENSE|||was|||REQUIRED|||-NONE-|||0
@@ -4825,10 +4825,10 @@ A 17 18|||R:PREP|||for|||REQUIRED|||-NONE-|||0
 A 20 21|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
 A 21 22|||R:VERB:FORM|||manipulate|||REQUIRED|||-NONE-|||0
 
-S For example , in 2 0 1 2 general election is Singapore , Dr Tan Chee Keong made use of facebook to spread his campaign videos to the public .
+S For example , in 2012 general election is Singapore , Dr Tan Chee Keong made use of facebook to spread his campaign videos to the public .
 A 4 4|||M:DET|||the|||REQUIRED|||-NONE-|||0
-A 10 11|||R:SPELL|||in|||REQUIRED|||-NONE-|||0
-A 20 21|||R:ORTH|||Facebook|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||in|||REQUIRED|||-NONE-|||0
+A 17 18|||R:ORTH|||Facebook|||REQUIRED|||-NONE-|||0
 
 S Though because of this , social media is still a much fairer and more transparent online platform for the public to share ideas compared to other traditional medias .
 A 0 2|||U:PREP|||Because|||REQUIRED|||-NONE-|||0
