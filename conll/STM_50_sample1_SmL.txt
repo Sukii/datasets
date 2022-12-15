@@ -48,4 +48,3 @@ It concluded that the above studies focused on the effect of aluminium content o
 On the other hand, top slag throughout the integrated steelmaking process of this steel grade, which is greatly determined the formation of inclusions.
 The effect of aluminium content on inclusions in high-manganese steel with CaO–SiO2–Al2O3–MgO slag was investigated by Yu et al.[23,24], and they found that the main inclusions are transformed from MnO type to MgO type with an increase.
 Wang et al.[25] determined 9 of type inclusions in high manganese steels in case of CaO flux, including AlN, MgO, CaS, MgAl2O4, AlN+MgO, MgO+MgS, MgO+MgS+CaS, MgO+CaS and MgAl2O4+MgS.
-
