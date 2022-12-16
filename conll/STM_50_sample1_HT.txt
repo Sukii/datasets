@@ -41,8 +41,8 @@ There are only a few works that the morphology, composition and size evolution o
 Grajcar[17] and Gigacher[18]investigated the inclusions in TRIP/TWIP steels, and the effects of earth elements on the composition and morphology of inclusions was confirmed.
 Besides, manganese and aluminium content have significant influence on the morphology and number of inclusions.
 Park et al. [19] found inclusions in the Fe-xMn-yAl steels (x = 10 and 20 pct, y = 1, 3, and 6) consist of Al2O3, AlN or AlON, MnAl2O4, Al2O3(-Al(O)N), Mn(S,Se), oxide-Mn(S,Se), and Al2O3
-Alba et al. [20] reported that the effect of aluminium content on the inclusion formation in medium manganese Feâ€“5Mnâ€“xAl steels, the results shows the number of AlN inclusions are increased significantly with increasing aluminium content from 0.5% to 6%.
-In addition, Wang et al.[21] systematically analysed the agglomeration behavior of AlN inclusions in high manganese Fe–23Mn–xAl–0.7C lightweight steel.
+Alba et al. [20] reported that the effect of aluminium content on the inclusion formation in medium manganese Fe-5Mn-xAl steels, the results shows the number of AlN inclusions are increased significantly with increasing aluminium content from 0.5% to 6%.
+In addition, Wang et al.[21] systematically analysed the agglomeration behavior of AlN inclusions in high manganese Fe-23Mn-xAl-0.7C lightweight steel.
 Yu et al. [22] explored the effect of magnesium on the evolution of inclusions in medium-manganese steel, suggested that the cluster-like Al2O3 are transformed into dispersed magnesium-containing inclusions, and the size and number of inclusions significantly decreased.
 It concluded that the above studies focused on the effect of aluminium content on evolution of AlN inclusions and the modification of oxides, the formation and evolution behavior of the main manganese-containing inclusions in medium/high manganese steel have not been systematically revealed.
 On the other hand, top slag throughout the integrated steelmaking process of this steel grade, which is greatly determined the formation of inclusions.

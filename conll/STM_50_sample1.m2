@@ -196,7 +196,7 @@ A 79 80|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 A 81 81|||M:VERB|||clarified|||REQUIRED|||-NONE-|||0
 A 85 87|||U:VERB||||||REQUIRED|||-NONE-|||0
 
-S Alba et al . [ 20 ] reported that the effect of aluminium content on the inclusion formation in medium manganese Fe-Mn-xAl steels , the results shows the number of AlN inclusions are increased significantly with increasing aluminium content from 0 . 5 % to 6 % .
+S Alba et al . [ 20 ] reported that the effect of aluminium content on the inclusion formation in medium manganese Fe-5Mn-xAl steels , the results shows the number of AlN inclusions are increased significantly with increasing aluminium content from 0 . 5 % to 6 % .
 A 8 9|||U:PREP||||||REQUIRED|||-NONE-|||0
 A 19 21|||R:OTHER|||medium-manganese|||REQUIRED|||-NONE-|||0
 A 23 24|||R:OTHER|||5Mn|||REQUIRED|||-NONE-|||0
@@ -234,7 +234,7 @@ A 17 18|||R:OTHER|||of|||REQUIRED|||-NONE-|||0
 A 18 19|||R:OTHER|||steel|||REQUIRED|||-NONE-|||0
 A 20 21|||R:VERB|||influences|||REQUIRED|||-NONE-|||0
 
-S The effect of aluminium content on inclusions in high-manganese steel with CaO – SiO2 – Al2O3 – MgO slag is investigated by Yu et al . [ 23 , 24 ] , and they found that the main inclusions are transformed from MnO type to MgO type with size is increased .
+S The effect of aluminium content on inclusions in high-manganese steel with CaO-SiO2-Al2O3-MgO slag is investigated by Yu et al . [ 23 , 24 ] , and they found that the main inclusions are transformed from MnO type to MgO type with size is increased .
 A 19 20|||R:VERB:TENSE|||was|||REQUIRED|||-NONE-|||0
 A 39 40|||R:VERB:TENSE|||were|||REQUIRED|||-NONE-|||0
 A 42 42|||M:DET|||the|||REQUIRED|||-NONE-|||0
