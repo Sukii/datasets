@@ -196,7 +196,7 @@ A 79 80|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 A 81 81|||M:VERB|||clarified|||REQUIRED|||-NONE-|||0
 A 85 87|||U:VERB||||||REQUIRED|||-NONE-|||0
 
-S Alba et al . [ 20 ] reported that the effect of aluminium content on the inclusion formation in medium manganese Fe – Mn – xAl steels , the results shows the number of AlN inclusions are increased significantly with increasing aluminium content from 0 . 5 % to 6 % .
+S Alba et al . [ 20 ] reported that the effect of aluminium content on the inclusion formation in medium manganese Fe-Mn-xAl steels , the results shows the number of AlN inclusions are increased significantly with increasing aluminium content from 0 . 5 % to 6 % .
 A 8 9|||U:PREP||||||REQUIRED|||-NONE-|||0
 A 19 21|||R:OTHER|||medium-manganese|||REQUIRED|||-NONE-|||0
 A 23 24|||R:OTHER|||5Mn|||REQUIRED|||-NONE-|||0
@@ -208,7 +208,7 @@ A 39 40|||R:OTHER|||when|||REQUIRED|||-NONE-|||0
 A 40 41|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
 A 43 43|||M:OTHER|||was increasead|||REQUIRED|||-NONE-|||0
 
-S In addition , Wang et al . [ 21 ] systematically analysed the agglomeration behavior of AlN inclusions in high manganese Fe – 23Mn – xAl – 0 . 7C lightweight steel .
+S In addition , Wang et al . [ 21 ] systematically analysed the agglomeration behavior of AlN inclusions in high manganese Fe-23Mn-xAl-0 . 7C lightweight steel .
 A 19 21|||R:OTHER|||high-manganese|||REQUIRED|||-NONE-|||0
 
 S Yu et al . [ 22 ] explored the effect of magnesium on the evolution of inclusions in medium-manganese steel , suggested that the cluster-like Al2O3 are transformed into dispersed magnesium-containing inclusions , the size and number of inclusions significantly decreased .
