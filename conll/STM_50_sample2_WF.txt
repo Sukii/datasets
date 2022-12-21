@@ -1,0 +1,50 @@
+The coelomic fluid of 26 clinically normal sea stars was sampled for coelomocyte counts, cytologic evaluation, and biochemical analysis, including magnesium, sodium, potassium, chloride, calcium, and total protein.
+Reference intervals for other chemistry analytes.
+Cytologically, very low numbers of coelomocytes were observed.
+As part of the sea star cellular immune system, coelomic fluid contains coelomocytes, the invertebrate counterpart to vertebrate leukocytes, which interact through complex mechanisms, including the complement system and various cytokines, lectins, antimicrobial peptides, structural proteins, clotting factors, and protein mediators that facilitate cellular adhesion (Beck and Habicht 1986; Leonard et al. 1990; Smith et al. 2010).
+Despite previous publications on healthy sea star chemistry (Diehl and Lawrence, 1984), immunology (Beck and Habicht1986; Leonard et al. 1990) and coelomocyte responses to injury (Pinsino et al. 2007) in various sea star species, reference intervals for coelomic fluid components have not been reported to date.
+The sea stars had never shown any clinical evidence of disease and remained clinically normal for at least one year following their sampling.
+The coelomic fluid was aspirated using a 23-ga.  1” needle and a 1-ml syringe approximately 1 cm from the distal tip of a ray on the aboral surface of the sea star.
+A total volume of 0.5-1.5ml was collected per individual, scaled to the individual’s size.
+After coelomic fluid collection, direct smears were immediately prepared for dry mount cytology.
+The coelomic fluid was then placed in lithium heparin and ethylenediaminetetraacetic acid (EDTA) microtubes (Sarstedt Inc., Princeton, NJ).
+Manual coelomocyte counts were performed in native (non-EDTA preserved) and EDTA-anticoagulated formalin-fixed preparations as described for lobster hemolymph and fish blood (Arnold et al. 2014).
+Drymount direct and sediment smears were stained with Wright-Giemsa for cytological evaluation.
+The water of 5 open system tanks in which sea stars were housed was also collected in lithium heparin microtubes and analyzed for magnesium, sodium, potassium, chloride and calcium as for coelomic fluid.
+Statistical analyzes were performed in the programming language (Version 3. 6.3) using the numerical library (Version 1. 1. 0).
+The full source code is freely available for review at https://goo.gl/e6WWFw.
+Measurements diverging more than 3 standard deviations from the mean of the rest of the values in the same distribution were considered outliers and removed from the data set.
+Reference interval guidelines were used to establish the normality of the different distributions of measurements (Friedrichs et al. 2012).
+The coelomic fluid was collected from 26 adult-sized sea stars.
+There was consistently a coelomocyte type present with morphology suggestive of the mononuclear phagocyte morphotype based on previous descriptions of coelomocyte morphology (Pinsino et al. 2007; Smith et al. 2010).
+Both formalin preparations (with and without EDTA) were consistent with each other in all samples for cell counts.
+The counts of coelomocytes from sea stars, the chemistry of coelomic fluid, and tank water chemistry are presented in Table 1.
+As multiple studies have shown, environmental stressors and disease can result in increased circulating coelomocytes (Coteur et al.,al., 2004; Grand et al., 2014; Matranga et al. 2000).
+The work presented herein provides preliminary baseline data on basic cellular and chemical components in the coelomic fluid of clinically normal sea stars.
+A major challenge and knowledge gap in the investigation of echinoderm disease is the differentiation of normal physiological adjustments to changes in environmental conditions from responses to disease.
+The number of coelomocytes ranged from 0 to 180/μl (median: 0; mean: 13).
+Coelomic fluid sampling is a noninvasive technique to access body fluid of sea stars for diagnostics and research.
+Given recent mortality events, including Sea Star Wasting Disease, which has killed millions of sea stars along the Pacific Coast since 2013, validated diagnostic tests to assess sea star health.
+The objectives of this study were to establish reference intervals of clinically normal Pisasterochraceus in an open system aquarium, describe the cytologic findings, and compare chemistries of coelomic fluid with open system tank water.
+The number of coelomocytes and the total protein, which was undetectable, did not fit a normal distribution and were excluded from the analyzes.
+There was no statistical difference in biochemistry between sea star coelomic fluid and water from five open system tanks, supporting previous evidence that sea stars are osmoconformers in health.
+These results provide a useful baseline and diagnostic tool for the assessment of sea stars in health and disease.
+The coelomic fluid fills the coelomic cavity and surrounds the internal organs of asteroid sea stars (Echinodermata: Asteroidea), playing essential roles in the transport and absorption of nutrients and respiratory gases (Ferguson 1963), the storage and transport of reproductive proteins and cells (Voogt et al. 1985), and immune function.
+Coelomic fluid in echinoderms is considered a complex tissue that has been the topic of several transcriptomic and proteomic studies focusing on immune functions in health (Smith et al., 2010).
+Limited investigations describe that systemic cellular and innate immune functions of sea stars are influenced by temperature, salinity, and parasitism (Coteur et al. 2004).
+A previous study by Diehl and Lawrence (1984) reported that electrolytes, amino acids, and ammonium concentrations in coelomic fluid were not significantly different from sea water.
+While shown to be osmoconformers when placed in hypotonic or hypertonic sea water, sea stars are partially able to regulate the volume of coelomic fluid via unknown mechanisms (Ellington and Lawrence 1974).
+The use of blood chemistry reference intervals is well established in their clinical applications in evaluating the health status of many vertebrate animal species using standardized guidelines defined by the American Society of Veterinary Clinical Pathology (Friedrichs et al. 2012), but chemistry reference intervals have been underutilized in invertebrate species to date.
+Pisasterochraceus, an ochre sea star, was collected from Puget Sound several years prior to their sampling.
+They were maintained in a well-established, natural seawater flow-through touch-tank exhibit with an average temperature of 50 ° F and average pH of 7.2 and species-appropriate husbandry (Böttger et al., 2004) at the Seattle Aquarium, an Association of Zoo and Aquariums-accredited facility.
+Before sampling, sea stars of undetermined age and sex were deemed clinically normal by visual and physical examination, eg lack of overt external injuries or skin lesions, normal feeding behaviors (eg consumption of offered food), and normal responsiveness (e.g., movement in tank).
+Formalin preparations of 50µl coelomic fluid in 200µl 10% neutral buffered formalin and 50µl EDTA coelomic fluid in 200µl 10% neutral buffered formalin were prepared for coelomocyte counts (Arnold et al., 2014).
+Sediment smears were prepared after centrifugation of 200µl of coelomic fluid at 3000 RPM for 10 minutes, drawing the supernatant, re-suspending the pellet in 50µl supernatant, and preparation of smears of this concentrated cellular material for dry mount cytology.
+Samples of 200µl coelomic fluid in lithium heparin microtubes were analyzed for magnesium, sodium, potassium, chloride, calcium and total protein (Ortho Vitros 250 analyzer, Ortho Clinical Diagnostics, Rochester, New York 14626 USA).
+Lithium heparin is an anticoagulant routinely used for chemistry of both mammalian and nonmammalian species and has been shown to not affect chemistry analytes (Lum and Gambino 1974).
+In all the biochemistry information measured, a single value (n=1) met these criteria.
+This was done by performing a Cox-Box transform and confirming normality using an omnibus test (Doornik and Hansen 1994) which showed with great statistical power (ranging P< 0. 12-0.8 depending on the variable except for magnesium) that normality should not be rejected.
+Subsequently, reference ranges were computed using the Cox-Box transformed data by calculating the 90% confidence interval assuming a normal distribution, then the inverse Cox-Box transform was applied to retrieve the values corresponding to the original measurements.
+A two-sided independent T-test was performed to assess if there was a statistically significant difference (P <0.05) in mean values of tested electrolytes from sea star coelomic fluid and open system tank water.
+In general, the fluid of all samples was colorless and clear.
+Microscopically, extracellular crystals morphologically suggestive of salt origin were observed in all samples, and bacteria or other microorganisms were absent.
