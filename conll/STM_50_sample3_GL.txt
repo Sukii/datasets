@@ -1,0 +1,50 @@
+Slight spherical equivalents and astigmatic overcorrection were evident after SMILE Xtra.
+The cross-linking (CXL) energy was 2.7 J/cm2.
+Visual and refractive changes were evaluated for 1 year. 
+The uncorrected distance visual acuity at the 1-day visit was lower after SMILE Xtra than after SMILE (p=0.01).
+S.CI and CI were slight>1.0 after SMILE Xtra, even at postoperative 12-month follow-up.
+Small incision lenticule extraction (SMILE) is safe and eﬀective for correcting myopia and myopic astigmatism.1-4 
+However, postoperative keratectasia has been reported after SMILE.5,6 
+Post-SMILE corneal ectasia will induce progressive myopia and irregular astigmatism, affecting the visual outcome.
+Corneal cross-linking (CXL) has been reported to slow or arrest the progression of postoperative keratectasia effectively.7 
+However, it is essential to balance the risks and benefits of simultaneous accelerated CXL in corneal refractive surgery.
+Traditional CXL (energy dose: 5.4J/cm2) can result in a continued corneal flattening eﬀect, corneal haze, change in pachymetry, and changed the pattern of crosslinked stromal collagen fibers.12,13,14,15  
+All of these changes may affect the refractive outcome.
+Moreover, there is no standardized protocol for prophylactic CXL or patient selection criteria.
+In the current study, we performed the simultaneous accelerated CXL (30 mW/cm2 for 90 seconds) in patients with a low-to-moderate ectasia risk score based on the Randleman ERSS.
+In addition, we analyzed the postoperative spherical and astigmatic changes over a 1-year follow-up.
+This retrospective study included 36 right eyes after SMILE Xtra and 40 right eyes after SMILE at Shenyang Aier Eye Hospital from May 2017 to May 2019. 
+Both groups had comparable preoperative manifest spheres and manifest cylinders (Table 1tbl1).
+According to the Randleman ERSS, they were labeled as ‘low-to-moderate risk of postoperative ectasia.’11 
+The study protocol was approved by the Institutional Review Board/Ethics Committee. 
+The study followed the tenets of the Declaration of Helsinki.
+None of the patients had pathological ocular conditions other than myopia and myopic astigmatism, with a corrected distance visual acuity (CDVA) of 20/20 or better in both eyes. All patients had stable refraction for at least 1 year before presentation.
+All patients had stable refraction for at least 1 year before presentation.
+The exclusion criteria were corneal thickness < 480 µm, mixed astigmatism, established keratoconus as determined by corneal topography, ocular inflammation, autoimmune disease, use of medications that could aﬀect wound healing, and pregnancy or breastfeeding.
+Preoperatively, all patients underwent detailed ocular examination, including the measurement of uncorrected distance visual acuity (UDVA), corrected distance visual acuity (CDVA), pupil size, intraocular pressure, manifest refraction, slit-lamp examination, dilated fundoscopy, and corneal tomography (PentacamHR, Oculus Optikgeräte GmbH, Wetzlar, Germany).
+UDVA, CDVA, autorefractometry (ARK-1S, Nidek, Japan), manifest refraction, and non-contact tonometry (NT-510, Nidec, Japan) were measured at each postoperative follow-up.
+Using CXL energy of 2.7 J/cm2, SMILE Xtra and SMILE exhibited comparable astigmatic correction within 1-year follow-up. 
+Methods: Patients with comparable manifest sphere and cylinder undergoing SMILE Xtra or SMILE were enrolled.
+Only the right eyes were selected.
+An astigmatic correction was analyzed using the Alpins method.
+Results: 36 eyes undergoing SMILE Xtra and 40 undergoing SMILE were enrolled.
+At 12 months, the mean manifest refraction spherical equivalent (MRSE) and manifest cylinder were 0.08±0.32 D and −0.29±0.23 D in the SMILE Xtra group, while −0.25±0.29 D and −0.22±0.19 D in SMILE group (p<0.01; p=0.135).
+34 eyes (94%) and 32 eyes (89%) in the SMILE Xtra group, 36 eyes (91%) and 39 eyes (98%) in the SMILE group exhibited target MRSE and manifest cylinder within ±0.50 D, respectively (p=0.771, p=0.294).
+Compared with the SMILE group, the spherical correction index (S.CI), correction index (CI), and difference vector were higher in the SMILE Xtra group since the 1-week follow-up (all p<0.05).
+Previous literature have reported that SMILE combined with prophylactic CXL (SMILE Xtra) may be a safe modality to prevent corneal ectasia in patients with a moderate-to-high risk of postoperative ectasia based on the Randleman Ectasia Risk Score System (ERSS).8-10,11 
+The UV-A radiation can also cause transient damage to the corneal epithelium.16
+We compared the astigmatic correction using vector analysis between patients who received SMILE Xtra and SMILE. 
+The patients undergoing SMILE Xtra exhibited either suspicious corneal topography (defined as ≥1 diopter (D) inferior steepening but an I-S value < 1.4D) or high myopia with the thin cornea (defined as myopia > 6.00 D and predicted residual stromal bed thickness from 250μm to 280μm).
+Normal eyes undergoing SMILE were included in the comparative group. 
+All patients provided written and informed consent before participating in the study.
+Before the suction was applied, all procedures were centered on the coaxially sighted corneal vertex.
+The present study used the cyclotorsion compensation technique to minimize alignment error.17 
+The following parameters were used: cap thickness, 120 μm; cap diameter, 7.6 mm; lenticular diameter, 6.5 mm; with a transition zone of 0.1 mm; side-cut incision of 2 mm at the 10 o’clock position of the cornea; cut energy, 135 nJ; and a spot distance of 4.5 μm for the lenticular and 2.0 μm for the lenticular border.
+For SMILE Xtra, after removal of the refractive lenticule, the photosensitizer, VibexXtra (Avedro, Waltham, MA, USA), was injected into the intrastromal pocket until the entire pocket appeared bright yellow.
+The vectors evaluated for astigmatic corrections were target-induced astigmatism (TIA), surgically-induced astigmatism (SIA), angle of error (AE), difference vector (DV), correction index (CI), and spherical correction index (S.CI).
+The correction index is calculated as SIA / TIA.
+Correction index < 1 denotes under-correction, and CI > 1 denotes overcorrection.
+The spherical correction index is calculated as achieved manifest refraction spherical equivalent (MRSE) / target MRSE.
+The mean LogMAR UDVA after SMILE Xtra on postoperative day 1 was 0.11±0.12, while 0.04±0.06 after SMILE (p=0.01, Mann–Whitney U-test).
+However, the differences were of no statistical significance at week 1, week, and months 1, 3, 6, or 12 postoperatively (Figure 1F).
+In the SMILE Xtra group, the mean LogMAR UDVA was −0.081 ± 0.06, and 29 eyes (81%) achieved a UDVA of 20/16 or better.
