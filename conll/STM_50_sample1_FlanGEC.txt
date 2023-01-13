@@ -1,0 +1,50 @@
+The results indicated that the types of manganese-containing inclusions in manganese steel were mainly single MnS, MnS-Al2O3, MnT-TiN and MnO-Al3O2 complex inclusions.
+In particular, the removal mechanisms of inclusions under electromagnetic stirring conditions with slag were revealed with the help of force field analysis.
+The experiments were carried out in a 10-kg vacuum induction furnace equipped with a vacuum, argon filling, alloying, water cooling and casting systems, as shown in Figure 1a.
+Following natural cooling, the metal ingots were cut for both chemical composition analysis and inclusion observation.
+It is worth mentioning that Fig. 6 also shows a similar 2D morphology, which is consistent with the above results.
+The elemental mapping of a typical Mn-Al2O3 inclusion is shown in Fig. 13a.
+The types and morphologies of the inclusions in the manganese steel under the action of sulphur dioxide are illustrated in Fig. 16.
+It can be clearly observed that the size of inclusions is significantly reduced, presenting mainly an irregular morphology with clear angularities.
+It can be seen that the number of inclusions in the manganese slag after treatment is significantly reduced, indicating the superior adsorption effect of the slag.
+Fig. 21 (a-b) shows the comparison of the size and distribution of inclusions in the sampled metal with and without stirring.
+It is obvious that the number of inclusions after induction is significantly reduced.
+On the other hand, the inclusion particles are moved upward against gravity and viscous resistance due to the large buoyancy caused by the low density of inclusions and then are absorbed by the molten slag.
+Fig. 12 shows the typical 2D morphology of inclusions in the Al-1 sample.
+As shown in Fig. 12d-h and Fig. 13d, the MnS-TiN-AlN complex inclusion is composed of a polyhedral MnS connected with a stellate like TiN and AlN, where Ti and AlN are intertwined.
+The elliptical Mn-MnO-Al2O3-SiO2 composite inclusion with a size of about 10 m (Figure 16c), in which the Mn is sparse on the outer layer.
+Based on the above slag system, the effect of stirring on inclusion removal is discussed.
+It can be concluded that among all the manganese-containing inclusions in the Al-1 sample, Mn is transformed into type III.
+Besides, compared with Mn-5, the density of total inclusions and manganese-containing inclusions also decreased significantly (Figure 1b), which is consistent with the above observed results.
+To further explore the effect of aluminum addition on inclusions in manganese steel, the thermodynamic behavior of inclusion formation in Al-1 steel was also analyzed, and the results are shown in Fig. 15a.
+In addition, the calculation of nucleation mismatches shows that (Figure 15b and Figure 6) the two-dimensional planar disregistry between MnS and AlN is 98.89%, confirming the possibility of heterogeneous nucleation of Mn and AlN.
+To reveal the removal behaviour of manganese-containing inclusions, the top slag is introduced in this work.
+Therefore, the inclusion particles are constantly migrated to the near slag and inner wall of the crucible by the molten metal flow and eventually are removed through a certain force field.
+Accordingly, [37] the skin effect of the electromagnetic force is evaluated by the penetration depth of action, which is mainly concentrated on the thin layer near the refractory and gradually decreases from the edge to the center.
+During induction stirring, the inclusion particles are subjected to vertical downward gravity (FG), viscous resistance (Ff), vertical upward buoyancy (Fb) and electromagnetic force from the center of the molten metal to the refractory edge (F).
+The EPMA for the elemental distribution of Mn-MnO-Al2O3-SiO2 complex inclusion also confirmed the formation of various oxides and morphological characteristics of a dotted MnS as on the external surface (Figure 18d-i).
+The effect of manganese content, aluminium content, slag and stirring on the characteristics of manganes-containing inclusions was investigated by laboratory thermal experiments and thermodynamic calculation.
+The morphology of manganese-containing inclusions was altered from spherical and elliptical to polyhedral as a result of increased manganese content, which is attributed to the large solid-liquid difference of high-mahogany, promoting the formation of type III MnS.
+It is also found that the manganese-containing inclusions show irregular morphology with clear angularities after addition of aluminium, which was determined by both the formation of flaky AlN and type III MnS with polygonal cavities caused by increased activity of the S and the surface tension of molten steel.
+Furthermore, the manganese-containing inclusions in amorphous silicon are considered Mn-MnO type crystals, in which a patchy or multi-point shape is embedded on the surface of the oxide.
+The force field analysis in induction revealed that the inclusion particles are removed by slag and refractory sorption under the action of strong electromagnetic force and buoyancy.
+This work provides an improved understanding for the control and removing of manganese-containing inclusions in high quality medium/high manganese steel.
+High-mahogany/low-chromium steels have been attracted to intense attention owing to their impressive mechanical properties, including high strength, excellent plasticity and high energy absorbtion, which are potential candidates for the next generation of advanced high-strength steels (AHSS) for automobile applications.
+In this respect, a lot of research is focussed on obtaining excellent properties by optimizing chemical composition, heat process, and microstructure of medium/high manganese steels,[7] while the steelmaking process has seldom been reported.
+As well known, the process of making steel plays an important role in the production of these grades, which in turn determines the properties of the final product.
+In particular, medium- and high-mahogany steels present new challenges in the ladle treatment process due to the precise control of the mahogany composition, which is strongly related to performance and smelting costs of the product.[8, 9]
+In fact, the yield of Mn depends on the manganese evaporation loss, sulphur/slag reaction, and the formation of inclusions belonging to a strong active group of manganese elements.[14]
+However, the non-metallic inclusions in these steels have not been observed extensively so far, and good inclusion control can provide some helpful information for improving steel cleanliness.[3]
+On the other hand, since the solidification characteristics of medium/high manganese steels are significantly different from conventional steels,[16] the physicochemical properties of the precipitates during the solidification process also have not been systematically revealed.
+Therefore, the characteristics and the formation mechanism of inclusions in medium- and high-magnesite steels are worthy of investigation.
+There are only a few works that have shown that the morphology, composition and size evolution of inclusions in many metals have been carried out by several researchers.
+Grajcar et al. , [17] and [18] investigated the inclusions in TRIP/TWIP samples, and the effects of earth elements on the composition and morphology of inclusions was confirmed.
+Besides, the manganese and aluminium content have a significant influence on the morphology and number of inclusions.
+Park et al. [19] found inclusions in the Fe-xMn-yAl alloys (x = 10 and 20 ppt, y = 1 and 3, 6) consisting of Al2O3, AlN or AlO, MnO2O4, Al2O3(-Al(O)N), Mn(S, Se), oxide-Mn(Se), and Al2O2(-Aal(O))-Mn (S, Se) and the corresponding formation mechanism was clarified.
+Alba et al. [20] reported that the effect of aluminium content on the inclusion formation in medium-to-large mahogany-slides, the results shows that the number of AlN inclusions are increased significantly with increasing aluminium content from 0.5% to 6%.
+In addition, Wang et al. [21] systematically analysed the agglomeration behaviour of AlN inclusions in high-mahogany-Fe-xAl-0.7C lightweight steel.
+Yong and co. [22] explored the effect of magnesium on the evolution of inclusions in medium-machine steel, suggested that the cluster-like Al2O3 are transformed into dispersed magnesium-containing inclusions, the size and number of inclusions significantly decreased.
+It concluded that the above studies focusing on the effect of aluminium content on the evolution of AlN inclusions and the modification of oxides, the formation and evolution of the main manganese-containing inclusions in medium/high manganese steel have not been systematically revealed.
+On the other hand, the slag is mixed throughout the integrated process of making this grade of steel, which is greatly determined by the formation of inclusions.
+The effect of aluminium content on inclusions in high-manganese steel with CaO-SiO2+Al2O3-MgO slag was investigated by Yong et al. [23], 24], and they found that the main inclusions are transformed from MnO type to MgO type with increased size.
+Wang et al. [25] determined nine types of inclusions in high-mahogany steels in the case of CaO flux, including AlN, MgO, CaS, MgAl2O4, AlN+MgO, MmO+MgS, MmM+CaS, and MgO+Cas and MgAal2O4+MgM.
