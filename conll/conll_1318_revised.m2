@@ -172,6 +172,7 @@ A 31 32|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 A 32 33|||R:OTHER|||or|||REQUIRED|||-NONE-|||0
 
 S In addition , a woman testing positive for BRCA1 would be expected to allow her brother or sister to disclose such information to a niece or nephew rather than do it herself , although this may be further complicated by an individual ' s response to risk information as they not want to know .
+A 8 9|||R:ORTH|||BRCA 1|||REQUIRED|||-NONE-|||0
 A 50 50|||M:VERB:TENSE|||may|||REQUIRED|||-NONE-|||0
 
 S Hence , there were also tensions if participants felt that they could neither pass on information to relatives who needed to know ( such as nieces and nephews ) nor persuade those with authority ( the parents ) to do so .
@@ -1500,6 +1501,7 @@ A 12 13|||R:VERB:FORM|||happening|||REQUIRED|||-NONE-|||0
 A 14 15|||R:VERB|||adopting|||REQUIRED|||-NONE-|||0
 A 25 28|||R:OTHER|||doing|||REQUIRED|||-NONE-|||0
 A 30 30|||M:ADV|||at least|||REQUIRED|||-NONE-|||0
+A 30 31|||R:ORTH|||3 0|||REQUIRED|||-NONE-|||0
 
 S To sum up , a carrier of a known genetic risk should be obligated to tell his or her relatives .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -1567,6 +1569,7 @@ S It challenges the confidentiality and privacy principles .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S Currently , under the Health Insurance Portability and Accountability Act of 1996 ( HIPAA ) in the United States , there is no legal obligation requirement to disclose information to relatives , it is up to the patient ' s wish to disclose to their family members .
+A 11 12|||R:ORTH|||1 9 9 6|||REQUIRED|||-NONE-|||0
 A 25 26|||U:NOUN||||||REQUIRED|||-NONE-|||0
 A 31 32|||R:PUNCT|||;|||REQUIRED|||-NONE-|||0
 A 38 41|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -1595,10 +1598,12 @@ A 15 15|||M:PART|||to|||REQUIRED|||-NONE-|||0
 A 16 19|||R:WO|||Alzheimer disease will|||REQUIRED|||-NONE-|||0
 A 26 27|||R:PREP|||on|||REQUIRED|||-NONE-|||0
 A 27 28|||R:NOUN:NUM|||family|||REQUIRED|||-NONE-|||0
+A 32 33|||R:ORTH|||2 0 1 2|||REQUIRED|||-NONE-|||0
 
 S There are associations provide helps to Alzheimer patients like Alzheimer ' s Association ( Alzheimer ' s Association , 1980 ) .
 A 3 3|||M:DET|||that|||REQUIRED|||-NONE-|||0
 A 4 5|||R:MORPH|||help|||REQUIRED|||-NONE-|||0
+A 19 20|||R:ORTH|||1 9 8 0|||REQUIRED|||-NONE-|||0
 
 S Although there are still thousand of genetic risk diseases out there that might not be receiving all helps and supports from everyone , the needs to receive immediate understanding and support from family members is an utmost help that patients need in their difficult time .
 A 4 5|||R:MORPH|||thousands|||REQUIRED|||-NONE-|||0
@@ -1652,6 +1657,7 @@ S To the whole society , it is a duty .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S Take H1N1 as an example , all the people in Singapore including students at school , travelers at the Changi Airport , workers in the office as well as passengers on the street are forced by law to take their temperature and report the result to the relevant government authority in charge .
+A 1 2|||R:ORTH|||H 1 N 1|||REQUIRED|||-NONE-|||0
 A 5 7|||R:PUNCT|||. All|||REQUIRED|||-NONE-|||0
 A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 26 28|||R:OTHER|||,|||REQUIRED|||-NONE-|||0
@@ -1690,12 +1696,14 @@ A 34 34|||M:DET|||their|||REQUIRED|||-NONE-|||0
 
 S A study of New York University in 2010 shown that patients with family members around generally recovers 2 - 4 days faster than those taken care by professional nurses .
 A 2 3|||R:PREP|||by|||REQUIRED|||-NONE-|||0
+A 7 8|||R:ORTH|||2 0 1 0|||REQUIRED|||-NONE-|||0
 A 8 9|||R:VERB:TENSE|||showed|||REQUIRED|||-NONE-|||0
 A 16 17|||R:MORPH|||recover|||REQUIRED|||-NONE-|||0
 A 26 26|||M:PREP|||of|||REQUIRED|||-NONE-|||0
 
 S Even for those patients with terminal diseases , the duration of their survival is 30 % longer due to the family support .
 A 11 12|||U:DET||||||REQUIRED|||-NONE-|||0
+A 14 15|||R:ORTH|||3 0|||REQUIRED|||-NONE-|||0
 A 19 20|||U:DET||||||REQUIRED|||-NONE-|||0
 
 S Some people may say that telling the truth may arise some unnecessary doubts and panics which will endanger the family harmony .
@@ -2783,6 +2791,7 @@ A 13 14|||R:ORTH|||Singapore|||REQUIRED|||-NONE-|||0
 
 S And now I got over 500 friends on Facebook and buried myself with hundrends of seeds every day .
 A 3 4|||R:VERB|||have|||REQUIRED|||-NONE-|||0
+A 5 6|||R:ORTH|||5 0 0|||REQUIRED|||-NONE-|||0
 A 10 10|||M:VERB:TENSE|||am|||REQUIRED|||-NONE-|||0
 A 11 12|||U:PRON||||||REQUIRED|||-NONE-|||0
 A 12 13|||R:PREP|||in|||REQUIRED|||-NONE-|||0
@@ -3375,6 +3384,7 @@ S Nowadays , social media are able to disseminate information faster than any ot
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S There are about 50 % of the people who have learnt about breaking news from social media .
+A 3 4|||R:ORTH|||5 0|||REQUIRED|||-NONE-|||0
 A 9 11|||R:VERB:TENSE|||learn|||REQUIRED|||-NONE-|||0
 
 S This is due to people spending comparatively more time on social networking than time on reading newpapers .
@@ -3395,6 +3405,7 @@ S There might be false information or hoaxes spreading around on social media .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S For example , in 2012 , there were false rumors of fires , shootouts , and caravans of gunmen in a Mexico City suburb which had spread through Twitter and Facebook .
+A 4 5|||R:ORTH|||2 0 1 2|||REQUIRED|||-NONE-|||0
 A 24 24|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 
 S This had caused panic among the people who had flooded the local police department with numerous phone calls , and this had resulted temporarily closed of schools .
@@ -4088,6 +4099,7 @@ S Nowadays , social media sites are commonly used in the society .
 A 9 10|||U:DET||||||REQUIRED|||-NONE-|||0
 
 S I believe 80 percents of people plays social media sites .
+A 2 3|||R:ORTH|||8 0|||REQUIRED|||-NONE-|||0
 A 3 4|||R:NOUN:NUM|||percent|||REQUIRED|||-NONE-|||0
 A 6 7|||R:VERB|||use|||REQUIRED|||-NONE-|||0
 
@@ -4781,10 +4793,16 @@ A 17 18|||R:MORPH|||real|||REQUIRED|||-NONE-|||0
 A 18 19|||R:OTHER|||life|||REQUIRED|||-NONE-|||0
 
 S This has been indicated in a report done by Boston University in 2012 , 80 % of information posted online is true while a person may like 3 out of 10 times in real life .
-A 13 14|||R:PUNCT|||:|||REQUIRED|||-NONE-|||0
+A 12 13|||R:OTHER|||2|||REQUIRED|||-NONE-|||0
+A 13 14|||R:OTHER|||0|||REQUIRED|||-NONE-|||0
+A 14 14|||M:OTHER|||1|||REQUIRED|||-NONE-|||0
+A 14 14|||M:OTHER|||2|||REQUIRED|||-NONE-|||0
+A 14 14|||M:PUNCT|||:|||REQUIRED|||-NONE-|||0
+A 14 15|||R:ORTH|||8 0|||REQUIRED|||-NONE-|||0
 A 17 17|||M:DET|||the|||REQUIRED|||-NONE-|||0
 A 22 22|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 26 27|||R:VERB|||lie|||REQUIRED|||-NONE-|||0
+A 30 31|||R:ORTH|||1 0|||REQUIRED|||-NONE-|||0
 
 S This shows that a facebook friend may know more about you than your close friend who does not have a facebook account .
 A 4 5|||R:ORTH|||Facebook|||REQUIRED|||-NONE-|||0
@@ -4810,6 +4828,7 @@ S That eliminates the incomplete information disadvantage for some remote rural 
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S One of the examples is the 2012 riots happened in Egypt and Zambia .
+A 6 7|||R:ORTH|||2 0 1 2|||REQUIRED|||-NONE-|||0
 A 8 8|||M:DET|||that|||REQUIRED|||-NONE-|||0
 
 S The idea of searching for democracy is passed from Egyptians to people in Zambia quickly through the use of social media .
@@ -4827,6 +4846,7 @@ A 21 22|||R:VERB:FORM|||manipulate|||REQUIRED|||-NONE-|||0
 
 S For example , in 2012 general election is Singapore , Dr Tan Chee Keong made use of facebook to spread his campaign videos to the public .
 A 4 4|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 4 5|||R:ORTH|||2 0 1 2|||REQUIRED|||-NONE-|||0
 A 7 8|||R:SPELL|||in|||REQUIRED|||-NONE-|||0
 A 17 18|||R:ORTH|||Facebook|||REQUIRED|||-NONE-|||0
 
@@ -5140,11 +5160,11 @@ A 7 8|||R:NOUN:NUM|||friendships|||REQUIRED|||-NONE-|||0
 S However , communication on social media is largely based on " broadcasting and listening " .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 
-S When we use facebook and post pictures and statuses , we are actively " presenting " fa ç ades of our lifes in front of others .
+S When we use facebook and post pictures and statuses , we are actively " presenting " facades of our lifes in front of others .
 A 3 4|||R:ORTH|||Facebook|||REQUIRED|||-NONE-|||0
 A 8 9|||R:NOUN|||status updates|||REQUIRED|||-NONE-|||0
-A 16 19|||R:ORTH|||façades|||REQUIRED|||-NONE-|||0
-A 21 22|||R:NOUN:INFL|||lives|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOUN|||façades|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOUN:INFL|||lives|||REQUIRED|||-NONE-|||0
 
 S We tend to post pictures with the best looks , status that are funny .
 A 9 10|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
