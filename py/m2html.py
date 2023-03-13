@@ -27,7 +27,9 @@ for key in f1_diffs:
         dlabel = ls[1]
         dtext = ls[2]
         dauthor = ls[len(ls)-1]
-        if dfirst < dlast:
+        if dlabel == 'noop':
+            pass
+        elif dfirst < dlast:
             if not(dtext == ""):
                 ls_key.insert(dlast,"<ins>"+dtext+"</ins>")
             ls_key.insert(dfirst,"<del>")
